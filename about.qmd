@@ -1,5 +1,12 @@
 ---
-title: "About"
----
+image: image.jpg
+about:
+  template: solana
+  links: 
+    - icon: linkedin 
+      text: LinkedIn
+      href: https://www.linkedin.com/in/liam-cummins-32251b1b9/
+      
 
+---
 About this site
