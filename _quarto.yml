@@ -12,12 +12,11 @@ website:
 
 format:
   html:
-    theme: united
+    theme: Quartz
       - cosmo
       - brand
     css: styles.css
     toc: true
     fontsize: 1.2em
-dark: darkly
-light: flately
+  
 
