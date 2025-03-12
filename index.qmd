@@ -5,5 +5,5 @@ about:
   links: # create buttons
     - icon: linkedin 
       text: LinkedIn
-      href: 
+      href: Linkedin.com/in/liam-cummins-32251b1b9/
 ---
