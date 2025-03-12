@@ -1,5 +1,5 @@
 ---
-image: images for zoom.jpg
+image:C: \Users\liamc\Downloads\images for zoom.jpg
 about:
   template: solana
   links: # create buttons
