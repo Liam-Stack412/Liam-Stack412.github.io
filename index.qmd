@@ -1,7 +1,7 @@
 ---
 image: C:\Users\liamc\Desktop\Portfolio\images
 about:
-  template: solana
+  template: broadside
   links: # create buttons
     - icon: linkedin 
       text: LinkedIn
