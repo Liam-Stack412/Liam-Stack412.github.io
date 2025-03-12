@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: Quartz
+    theme: Flatly
       - cosmo
       - brand
     css: styles.css
