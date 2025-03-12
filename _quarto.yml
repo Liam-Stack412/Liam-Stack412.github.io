@@ -14,8 +14,8 @@ format:
   html:
     theme: 
       - lux
-      - cosmo
-      
+      - cerulean
+      - brand
     css: styles.css
     toc: true
     fontsize: 1.1em
