@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: Flatly
+    theme: cyborg
       - cosmo
       - brand
     css: styles.css
