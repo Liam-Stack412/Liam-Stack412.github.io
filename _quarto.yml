@@ -16,8 +16,7 @@ format:
     - Lux
     - Cerulean
     - brand
-    css: styles.css
+    css: styles.scss
     toc: true
     fontsize: 1.1em
-  
 
