@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Liam-Stack412.github.io",
+    "title": "Liam Cummins",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "image: image.jpg about: template: broadside links: - icon: linkedin text: LinkedIn href: https://www.linkedin.com/in/liam-cummins-32251b1b9/\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "about.html",

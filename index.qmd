@@ -1,6 +1,14 @@
 ---
-title: "Liam-Stack412.github.io"
+title: "Liam Cummins"
 ---
+image: image.jpg
+about:
+  template: broadside
+  links: 
+    - icon: linkedin 
+      text: LinkedIn
+      href: https://www.linkedin.com/in/liam-cummins-32251b1b9/
+
 
 This is a Quarto website.
 
