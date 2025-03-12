@@ -14,7 +14,7 @@ format:
   html:
     theme: 
       - lux
-      - cerulean
+      - Quartz
       - brand
     css: styles.css
     toc: true
