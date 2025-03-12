@@ -6,4 +6,11 @@ about:
     - icon: linkedin 
       text: LinkedIn
       href: https://www.linkedin.com/in/liam-cummins-32251b1b9/
+
+website:
+  title: "Your Title"
+  favicon: C:\Users\liamc\Downloads\logos
+  navbar:
+    title: false
+    logo: C:\Users\liamc\Downloads\logos
 ---
