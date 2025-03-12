@@ -13,9 +13,8 @@ website:
 format:
   html:
     theme: 
-      - lux
-      - Minty
-      - brand
+    light: flatly
+    dark: darkly
     css: styles.css
     toc: true
     fontsize: 1.1em
