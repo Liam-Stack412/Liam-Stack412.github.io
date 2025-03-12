@@ -1,5 +1,5 @@
 ---
-image: image.jpg1
+image: images for zoom.jpg
 about:
   template: solana
   links: # create buttons
