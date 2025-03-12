@@ -1,7 +1,7 @@
 ---
 image: image.jpg1
 about:
-  template: jolla
+  template: solana
   links: # create buttons
     - icon: linkedin 
       text: LinkedIn
