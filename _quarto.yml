@@ -13,8 +13,9 @@ website:
 format:
   html:
     theme: 
-    light: flatly
-    dark: darkly
+    - Lux
+    - Cerulean
+    - brand
     css: styles.css
     toc: true
     fontsize: 1.1em
