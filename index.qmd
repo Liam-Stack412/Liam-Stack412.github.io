@@ -1,15 +1,9 @@
 ---
-title: "Liam Cummins"
----
-image: image.jpg
+image: 
 about:
-  template: broadside
-  links: 
+  template: jolla
+  links: # create buttons
     - icon: linkedin 
       text: LinkedIn
-      href: https://www.linkedin.com/in/liam-cummins-32251b1b9/
-
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+      href: 
+---
