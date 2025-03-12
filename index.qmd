@@ -1,9 +1,9 @@
 ---
-image: 
+image: image.jpg1
 about:
   template: jolla
   links: # create buttons
     - icon: linkedin 
       text: LinkedIn
-      href: Linkedin.com/in/liam-cummins-32251b1b9/
+      href: https://www.linkedin.com/in/liam-cummins-32251b1b9/
 ---
