@@ -19,4 +19,5 @@ format:
     css: styles.scss
     toc: true
     fontsize: 1.1em
+    mainfont: montserrat
 
