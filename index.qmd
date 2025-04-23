@@ -1,6 +1,7 @@
 ---
 title: "Welcome"
 format:
+  template: broadside
   html:
     page-layout: full
 ---
@@ -19,4 +20,4 @@ I'm a final-year Business Studies student at DCU with a passion for finance, str
 - 📄 Downloadable CV
 - 📈 Business strategy, analytics, and reflection
 
-[📄 View My CV](files/CV-Marketing-2025.pdf){.btn .btn-primary target="_blank"}
+

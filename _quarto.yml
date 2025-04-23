@@ -15,7 +15,7 @@ website:
         text: About
       - href: hello.qmd
         text: Hello
-      - href: projects.qmd
+      - href: Works.qmd
         text: My Projects
       
      
