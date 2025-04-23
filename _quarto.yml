@@ -6,7 +6,7 @@ website:
   title: "Liam Cummins"
   search: true
   navbar:
-    logo: images\GT.PNG
+    logo: images\GT
 
     left:
       - href: index.qmd
@@ -25,7 +25,7 @@ website:
 
 format:
   html:
-    theme: Cerulean
+    theme: Lux
     css: styles.scss
     toc: true
     fontsize: 1.1em
