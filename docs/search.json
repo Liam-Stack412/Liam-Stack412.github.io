@@ -4,7 +4,7 @@
     "href": "project.html",
     "title": "Projects",
     "section": "",
-    "text": "Duis ornare ex ac iaculis pretium. Maecenas sagittis odio id erat pharetra, sit amet consectetur quam sollicitudin. Vivamus pharetra quam purus, nec sagittis risus pretium at. Nullam feugiat, turpis ac accumsan interdum, sem tellus blandit neque, id vulputate diam quam semper nisl. Donec sit amet enim at neque porttitor aliquet. Phasellus facilisis nulla eget placerat eleifend. Vestibulum non egestas eros, eget lobortis ipsum. Nulla rutrum massa eget enim aliquam, id porttitor erat luctus. Nunc sagittis quis eros eu sagittis. Pellentesque dictum, erat at pellentesque sollicitudin, justo augue pulvinar metus, quis rutrum est mi nec felis. Vestibulum efficitur mi lorem, at elementum purus tincidunt a. Aliquam finibus enim magna, vitae pellentesque erat faucibus at. Nulla mauris tellus, imperdiet id lobortis et, dignissim condimentum ipsum. Morbi nulla orci, varius at aliquet sed, facilisis id tortor. Donec ut urna nisi."
+    "text": "Vestibulum ultrices, tortor at mattis porta, odio nisi rutrum nulla, sit amet tincidunt eros quam facilisis tellus. Fusce eleifend lectus in elementum lacinia. Nam auctor nunc in massa ullamcorper, sit amet auctor ante accumsan. Nam ut varius metus. Curabitur eget tristique leo. Cras finibus euismod erat eget elementum. Integer vel placerat ex. Ut id eros quis lectus lacinia venenatis hendrerit vel ante."
   },
   {
     "objectID": "hello.html",
@@ -23,8 +23,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Welcome",
     "section": "",
-    "text": "About this site"
+    "text": "I’m a final-year Business Studies student at DCU with a passion for finance, strategy, and data analytics. This ePortfolio showcases my projects, skills, and professional development journey.\n\n\n\n\n🎓 Final-year Business Student (DCU)\n💼 Internship at Grant Thornton\n📊 Python & SQL projects\n📄 Downloadable CV\n📈 Business strategy, analytics, and reflection\n\n📄 View My CV"
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "Welcome",
+    "section": "",
+    "text": "🎓 Final-year Business Student (DCU)\n💼 Internship at Grant Thornton\n📊 Python & SQL projects\n📄 Downloadable CV\n📈 Business strategy, analytics, and reflection\n\n📄 View My CV"
   }
 ]
