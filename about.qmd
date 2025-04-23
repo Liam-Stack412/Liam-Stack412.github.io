@@ -1,15 +1,23 @@
 ---
-title: "About Me"
-image: C:\Users\liamc\Desktop\Portfolio\images
-about:
-  template: broadside
-  links: 
-    - icon: linkedin 
-      text: LinkedIn
-      href: https://www.linkedin.com/in/liam-cummins-32251b1b9/
+title: "About"
 ---
 
-About this site
+## Background
+After completing secondary school I took on a two year Post Leaving Certificate on Business management with Coláiste Dhúlaigh. This course gave me confidence and practical knowledge I would need in the Business world and for further progression.
+With the necessary grades I was accepted into Dublin City University's Business Studies course, being able to skip to 2nd year. 
 
+From my time at DCU I have completed year 2, done an internship with Grant thornton, chosen to specialise in data analytics and am on track to graduate this year.
+
+
+## 💼 Professional Experience
+
+- **Finance Intern** – Grant Thornton  
+My internship with Grant Thornton was a very memorable experience.
+From my time at Grant Thornton I worked in the FAAS department where I was assinged to two teams, SEI US and Statestreet US. My duties would have involved review 2nd level funds or completing the the funds for my assigned reviewer.
+Grant Thornton was a valueable experience, I gained new friends.
+
+## 🎯 Career Goals
+
+After graduating I aim to aquire a graduate role in marketing.
 
 

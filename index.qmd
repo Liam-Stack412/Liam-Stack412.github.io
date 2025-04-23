@@ -5,7 +5,7 @@ format:
     page-layout: full
 ---
 
-# 👋 Hi, I'm Liam Cummins
+# Hi I'm Liam Cummins
 
 I'm a final-year Business Studies student at DCU with a passion for finance, strategy, and data analytics. This ePortfolio showcases my projects, skills, and professional development journey.
 
