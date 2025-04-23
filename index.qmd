@@ -1,29 +1,22 @@
 ---
-image: C:\Users\liamc\Desktop\Portfolio\images
-about:
-  template: jolla
-  links: # create buttons
-    - icon: linkedin 
-      text: LinkedIn
-      href: https://www.linkedin.com/in/liam-cummins-32251b1b9/
-
-website:
-  title: "Your Title"
-  favicon: C:\Users\liamc\Downloads\logos
-  navbar:
-    title: false
-    logo: C:\Users\liamc\Downloads\logos
+title: "Welcome"
+format:
+  html:
+    page-layout: full
 ---
 
----
-title: "About Me"
-image: C:\Users\liamc\Desktop\Portfolio\images
-about:
-  template: broadside
-  links: 
-    - icon: linkedin 
-      text: LinkedIn
-      href: https://www.linkedin.com/in/liam-cummins-32251b1b9/
+# 👋 Hi, I'm Liam Cummins
+
+I'm a final-year Business Studies student at DCU with a passion for finance, strategy, and data analytics. This ePortfolio showcases my projects, skills, and professional development journey.
+
 ---
 
-About this site
+## 🌟 Highlights
+
+- 🎓 Final-year Business Student (DCU)
+- 💼 Internship at Grant Thornton
+- 📊 Python & SQL projects
+- 📄 Downloadable CV
+- 📈 Business strategy, analytics, and reflection
+
+[📄 View My CV](files/CV-Marketing-2025.pdf){.btn .btn-primary target="_blank"}
