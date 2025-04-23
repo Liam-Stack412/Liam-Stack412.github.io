@@ -2,5 +2,21 @@
 title: Projects
 ---
 
-{{< lipsum 1 >}}
+# 📊 Featured Projects
+
+## 1. Aquaband Defender – Marketing & Strategy
+
+- 2026-2027 business plan for a water safety product
+- Includes market analysis, trends, and sales strategy
+
+## 2. Grant Thornton Strategy Report
+
+- Focused on ESG integration and VRIO analysis
+- Uses Uppsala and Bartlett & Ghoshal frameworks
+
+## 3. Machine Learning Model – Bank Loan Prediction
+
+- Python + scikit-learn (Random Forest, SVM, Logistic Regression)
+- Model performance visualized with ROC curves and pie charts
+
 {{< placeholder 400 400 >}}

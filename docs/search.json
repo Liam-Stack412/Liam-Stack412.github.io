@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "Works.html",
+    "href": "Works.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  },
+  {
+    "objectID": "hello.html",
+    "href": "hello.html",
+    "title": "Liam Cummins",
+    "section": "",
+    "text": "\"Hello World\"\n\n'Hello World'"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "I’m a final-year Business Studies student at DCU with a passion for finance, strategy, and data analytics. This ePortfolio showcases my projects, skills, and professional development journey.\n\n\n\n\n🎓 Final-year Business Student (DCU)\n💼 Internship at Grant Thornton\n📊 Python & SQL projects\n📄 Downloadable CV\n📈 Business strategy, analytics, and reflection"
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "Welcome",
+    "section": "",
+    "text": "🎓 Final-year Business Student (DCU)\n💼 Internship at Grant Thornton\n📊 Python & SQL projects\n📄 Downloadable CV\n📈 Business strategy, analytics, and reflection"
+  }
+]
