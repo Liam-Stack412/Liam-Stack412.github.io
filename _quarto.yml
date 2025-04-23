@@ -4,9 +4,9 @@ project:
 
 website:
   title: "Liam Cummins"
-  logo: logo.png
   search: true
   navbar:
+    logo: GT.PNG
     left:
       - href: index.qmd
         text: Home
@@ -25,9 +25,7 @@ website:
 
 format:
   html:
-    theme: 
-      - lux
-      - cerulean
+    theme: lux
     css: styles.scss
     toc: true
     fontsize: 1.1em
