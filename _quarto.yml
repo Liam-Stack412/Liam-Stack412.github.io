@@ -6,7 +6,8 @@ website:
   title: "Liam Cummins"
   search: true
   navbar:
-    logo: GT.PNG
+    logo: images\GT.PNG
+
     left:
       - href: index.qmd
         text: Home
@@ -17,15 +18,14 @@ website:
         text: Hello
       - href: projects.qmd
         text: Projects
-      - href: talks.qmd
-        text: Talks
+     
     right:
       - icon: github
         href: https://github.com/Liam-Stack412/Liam-Stack412.github.io
 
 format:
   html:
-    theme: lux
+    theme: Cerulean
     css: styles.scss
     toc: true
     fontsize: 1.1em
