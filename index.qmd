@@ -1,7 +1,6 @@
 ---
 title: "Welcome"
 format:
-  template: broadside
   html:
     page-layout: full
 ---
