@@ -17,13 +17,13 @@ website:
         text: Hello
       - href: projects.qmd
         text: My Projects
-      - href: 
-        text: CV
+      
      
     right:
       - icon: github
         href: https://github.com/Liam-Stack412/Liam-Stack412.github.io
-
+      - icon: linkedin 
+        href: https://www.linkedin.com/in/liam-cummins-32251b1b9/
 format:
   html:
     theme: Lux
