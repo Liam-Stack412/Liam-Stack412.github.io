@@ -14,3 +14,16 @@ website:
     title: false
     logo: C:\Users\liamc\Downloads\logos
 ---
+
+---
+title: "About Me"
+image: C:\Users\liamc\Desktop\Portfolio\images
+about:
+  template: broadside
+  links: 
+    - icon: linkedin 
+      text: LinkedIn
+      href: https://www.linkedin.com/in/liam-cummins-32251b1b9/
+---
+
+About this site

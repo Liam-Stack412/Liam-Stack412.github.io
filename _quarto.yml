@@ -6,7 +6,6 @@ website:
   title: "Liam Cummins"
   search: true
   navbar:
-    logo: images\GT
 
     left:
       - href: index.qmd
@@ -17,7 +16,9 @@ website:
       - href: hello.qmd
         text: Hello
       - href: projects.qmd
-        text: Projects
+        text: My Projects
+      - href: CV Marketing 2025.pdf
+        text: CV
      
     right:
       - icon: github
