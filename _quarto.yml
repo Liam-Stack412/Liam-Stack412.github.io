@@ -1,48 +1,34 @@
 project:
   type: website
   output-dir: docs
+
 website:
   title: "Liam Cummins"
+  logo: logo.png
+  search: true
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - hello.qmd
+        icon: house-door-fill
+      - href: about.qmd
+        text: About
+      - href: hello.qmd
+        text: Hello
+      - href: projects.qmd
+        text: Projects
+      - href: talks.qmd
+        text: Talks
+    right:
+      - icon: github
+        href: https://github.com/Liam-Stack412/Liam-Stack412.github.io
 
 format:
   html:
     theme: 
-    - Lux
-    - Cerulean
-    - brand
+      - lux
+      - cerulean
     css: styles.scss
     toc: true
     fontsize: 1.1em
-    mainfont: montserrat
-
-website:
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - href: projects.qmd
-        text: Projects
-
-
-website:
-  navbar:
-    title: cwick.co.nz 
-    logo: logo.png
-    search: true
-    right: 
-      - talks.qmd
-    left:
-      - text: Home
-        href: index.qmd
-        icon: house-door-fill
-    tools: 
-      - icon: github
-        href: https://github.com/Liam-Stack412/Liam-Stack412.github.io
+    mainfont: Montserrat
