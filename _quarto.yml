@@ -21,3 +21,28 @@ format:
     fontsize: 1.1em
     mainfont: montserrat
 
+website:
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+
+
+website:
+  navbar:
+    title: cwick.co.nz 
+    logo: logo.png
+    search: true
+    right: 
+      - talks.qmd
+    left:
+      - text: Home
+        href: index.qmd
+        icon: house-door-fill
+    tools: 
+      - icon: github
+        href: https://github.com/Liam-Stack412/Liam-Stack412.github.io
