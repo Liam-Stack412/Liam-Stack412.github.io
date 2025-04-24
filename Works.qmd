@@ -8,7 +8,7 @@ title: Projects
 
 :::{.columns}
 ::: {.column width="30%"}
-![Aquaband](images/projects/aquaband defender logo.jpg)
+![Aquaband](images/projects/Aquaband.jpg)
 :::
 ::: {.column width="70%"}
 - 2026–2027 business plan for a water safety product  
@@ -36,7 +36,7 @@ title: Projects
 
 :::{.columns}
 ::: {.column width="30%"}
-![ML Model](images/projects/loan-model.jpg)
+![ML Model](images/projects/bank-loan.jpg)
 :::
 ::: {.column width="70%"}
 - Python model (Random Forest, SVM, Logistic Regression)  
