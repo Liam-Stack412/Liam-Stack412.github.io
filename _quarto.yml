@@ -13,8 +13,8 @@ website:
         icon: house-door-fill
       - href: about.qmd
         text: About me
-      - href: hello.qmd
-        text: Hello
+      - href: Reflection.qmd
+        text: Reflection
       - href: Works.qmd
         text: My Projects
       
