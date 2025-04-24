@@ -37,9 +37,30 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "After completing secondary school I took on a two year Post Leaving Certificate on Business management with Coláiste Dhúlaigh. This course gave me confidence and practical knowledge I would need in the Business world and for further progression. With the necessary grades I was accepted into Dublin City University’s Business Studies course, being able to skip to 2nd year.\nFrom my time at DCU I have completed year 2, done an internship with Grant thornton, chosen to specialise in data analytics and am on track to graduate this year."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About",
+    "section": "",
+    "text": "After completing secondary school I took on a two year Post Leaving Certificate on Business management with Coláiste Dhúlaigh. This course gave me confidence and practical knowledge I would need in the Business world and for further progression. With the necessary grades I was accepted into Dublin City University’s Business Studies course, being able to skip to 2nd year.\nFrom my time at DCU I have completed year 2, done an internship with Grant thornton, chosen to specialise in data analytics and am on track to graduate this year."
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "About",
+    "section": "💼 Professional Experience",
+    "text": "💼 Professional Experience\n\nFinance Intern – Grant Thornton\nMy internship with Grant Thornton was a very memorable experience. From my time at Grant Thornton I worked in the FAAS department where I was assinged to two teams, SEI US and Statestreet US. My duties would have involved review 2nd level funds or completing the the funds for my assigned reviewer. Grant Thornton was a valueable experience, I gained new friends."
+  },
+  {
+    "objectID": "about.html#career-goals",
+    "href": "about.html#career-goals",
+    "title": "About",
+    "section": "🎯 Career Goals",
+    "text": "🎯 Career Goals\nAfter graduating I aim to aquire a graduate role in marketing."
   },
   {
     "objectID": "index.html",
