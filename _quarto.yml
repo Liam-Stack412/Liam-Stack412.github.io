@@ -17,7 +17,8 @@ website:
         text: Reflection
       - href: Works.qmd
         text: My Projects
-      
+      - href: CV.pdf
+        text: My CV
      
     right:
       - icon: github
