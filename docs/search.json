@@ -28,11 +28,18 @@
     "text": "ML Model\n\n\n\n\nPython model (Random Forest, SVM, Logistic Regression)\n\nVisualized with ROC curves and pie charts"
   },
   {
-    "objectID": "hello.html",
-    "href": "hello.html",
-    "title": "Liam Cummins",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
     "section": "",
-    "text": "\"Hello World\"\n\n'Hello World'"
+    "text": "I’m a final-year Business Studies student at DCU with a passion for finance, strategy, and data analytics. This ePortfolio showcases my projects, skills, and professional development journey.\n\n\n\n\n🎓 Final-year Business Student (DCU)\n💼 Internship at Grant Thornton\n📊 Python & SQL projects\n📄 Downloadable CV\n📈 Business strategy, analytics, and reflection"
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "Welcome",
+    "section": "",
+    "text": "🎓 Final-year Business Student (DCU)\n💼 Internship at Grant Thornton\n📊 Python & SQL projects\n📄 Downloadable CV\n📈 Business strategy, analytics, and reflection"
   },
   {
     "objectID": "about.html",
@@ -77,17 +84,10 @@
     "text": "📄 View My CV\n🔗 LinkedIn"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Liam Cummins",
     "section": "",
-    "text": "I’m a final-year Business Studies student at DCU with a passion for finance, strategy, and data analytics. This ePortfolio showcases my projects, skills, and professional development journey.\n\n\n\n\n🎓 Final-year Business Student (DCU)\n💼 Internship at Grant Thornton\n📊 Python & SQL projects\n📄 Downloadable CV\n📈 Business strategy, analytics, and reflection"
-  },
-  {
-    "objectID": "index.html#highlights",
-    "href": "index.html#highlights",
-    "title": "Welcome",
-    "section": "",
-    "text": "🎓 Final-year Business Student (DCU)\n💼 Internship at Grant Thornton\n📊 Python & SQL projects\n📄 Downloadable CV\n📈 Business strategy, analytics, and reflection"
+    "text": "\"Hello World\"\n\n'Hello World'"
   }
 ]
