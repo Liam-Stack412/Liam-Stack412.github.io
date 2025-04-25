@@ -3,16 +3,16 @@ title: "Bank Loan Approval – Machine Learning Models"
 page-layout: full
 ---
 
-# 🤖 Bank Loan Approval Prediction
+## Bank Loan Approval Prediction
 
-## 📖 Project Overview
+## Project Overview
 
 I developed and evaluated machine learning models to predict loan approvals using applicant financial and demographic data.  
 The goal was to identify patterns that predict whether an applicant would be approved for a bank loan.
 
 ---
 
-## 🛠 Models Built
+## Models Built
 
 - Random Forest Classifier
 - Decision Tree Classifier
@@ -21,7 +21,7 @@ The goal was to identify patterns that predict whether an applicant would be app
 
 ---
 
-## 📈 Model Performance Comparison
+## Model Performance Comparison
 
 | Model                 | Accuracy (%) | F1-Score |
 |------------------------|--------------|----------|
@@ -32,44 +32,44 @@ The goal was to identify patterns that predict whether an applicant would be app
 
 ---
 
-## 📈 ROC Curve Comparison
+## ROC Curve Comparison
 
 ![ROC Curves](../images/projects/bank-loan.jpg){width=600px style="display: block; margin: auto;"}
 
 ---
 
-# 📈 Confusion Matrices
+# Confusion Matrices
 
 Below are the confusion matrices for each model:
 
 ---
 
-## 🌳 Random Forest Classifier
+## Random Forest Classifier
 
 ![Random Forest Confusion Matrix](../images/projects/confusion-forest.png){width=500px style="display: block; margin: auto;"}
 
 ---
 
-## 🌳 Decision Tree Classifier
+## Decision Tree Classifier
 
 ![Decision Tree Confusion Matrix](../images/projects/confusion-tree.png){width=500px style="display: block; margin: auto;"}
 
 ---
 
-## 📈 Logistic Regression
+## Logistic Regression
 
 ![Logistic Regression Confusion Matrix](../images/projects/confusion-LR.png){width=500px style="display: block; margin: auto;"}
 
 ---
 
-## ✖️ Support Vector Machine (SVM)
+## Support Vector Machine (SVM)
 
 ![SVM Confusion Matrix](../images/projects/confusion-svm.png){width=500px style="display: block; margin: auto;"}
 
 
 ---
 
-## 🧠 Key takeaways
+## Key takeaways
 
 - Random Forest delivered the best overall performance.
 - Logistic Regression served as a simple and interpretable baseline.
