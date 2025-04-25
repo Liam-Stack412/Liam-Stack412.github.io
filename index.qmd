@@ -4,7 +4,7 @@ format:
   html:
     page-layout: full
 ---
-![Author](images/profile.jpeg){width=200px style="display: block; margin: auto; border-radius: 50%;"}
+![Author](images/profile.jpeg){width=200px style="display: block; margin: auto; border-radius: 100%;"}
 
 # Hi I'm Liam Cummins
 
@@ -16,8 +16,8 @@ I'm a final-year Business Studies student at DCU with a passion for finance, str
 
 - Final-year Business Student (DCU)
 - Internship at Grant Thornton
-- Python & SQL projects
+- Projects of various modules
 - Downloadable CV
-- reflection
+- Reflection
 
 

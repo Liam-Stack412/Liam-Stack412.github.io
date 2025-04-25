@@ -64,7 +64,7 @@ Below are the confusion matrices for each model:
 
 ## Support Vector Machine (SVM)
 
-![SVM Confusion Matrix](../images/projects/confusion-svm.png){width=500px style="display: block; margin: auto;"}
+![SVM Confusion Matrix](../images/projects/confusion-SVM.png){width=500px style="display: block; margin: auto;"}
 
 
 ---

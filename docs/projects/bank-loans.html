@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Bank Loan Prediction – Machine Learning Model – Liam Cummins</title>
+<title>Bank Loan Approval – Machine Learning Models – Liam Cummins</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -121,11 +121,6 @@ ul.task-list li input[type="checkbox"] {
 </i> 
 <span class="menu-text"></span></a>
   </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="../Liam.cummins26@mail.dcu.ie"> <i class="bi bi-mail" role="img">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -142,13 +137,18 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#bank-loan-approval-prediction" id="toc-bank-loan-approval-prediction" class="nav-link active" data-scroll-target="#bank-loan-approval-prediction">🤖 Bank Loan Approval Prediction</a>
+  <li><a href="#bank-loan-approval-prediction" id="toc-bank-loan-approval-prediction" class="nav-link active" data-scroll-target="#bank-loan-approval-prediction">Bank Loan Approval Prediction</a></li>
+  <li><a href="#project-overview" id="toc-project-overview" class="nav-link" data-scroll-target="#project-overview">Project Overview</a></li>
+  <li><a href="#models-built" id="toc-models-built" class="nav-link" data-scroll-target="#models-built">Models Built</a></li>
+  <li><a href="#model-performance-comparison" id="toc-model-performance-comparison" class="nav-link" data-scroll-target="#model-performance-comparison">Model Performance Comparison</a></li>
+  <li><a href="#roc-curve-comparison" id="toc-roc-curve-comparison" class="nav-link" data-scroll-target="#roc-curve-comparison">ROC Curve Comparison</a></li>
+  <li><a href="#confusion-matrices" id="toc-confusion-matrices" class="nav-link" data-scroll-target="#confusion-matrices">Confusion Matrices</a>
   <ul class="collapse">
-  <li><a href="#project-overview" id="toc-project-overview" class="nav-link" data-scroll-target="#project-overview">📖 Project Overview</a></li>
-  <li><a href="#technologies-and-methods" id="toc-technologies-and-methods" class="nav-link" data-scroll-target="#technologies-and-methods">🛠 Technologies and Methods</a></li>
-  <li><a href="#results" id="toc-results" class="nav-link" data-scroll-target="#results">📊 Results</a></li>
-  <li><a href="#visualisations" id="toc-visualisations" class="nav-link" data-scroll-target="#visualisations">📈 Visualisations</a></li>
-  <li><a href="#reflection" id="toc-reflection" class="nav-link" data-scroll-target="#reflection">🧠 Reflection</a></li>
+  <li><a href="#random-forest-classifier" id="toc-random-forest-classifier" class="nav-link" data-scroll-target="#random-forest-classifier">Random Forest Classifier</a></li>
+  <li><a href="#decision-tree-classifier" id="toc-decision-tree-classifier" class="nav-link" data-scroll-target="#decision-tree-classifier">Decision Tree Classifier</a></li>
+  <li><a href="#logistic-regression" id="toc-logistic-regression" class="nav-link" data-scroll-target="#logistic-regression">Logistic Regression</a></li>
+  <li><a href="#support-vector-machine-svm" id="toc-support-vector-machine-svm" class="nav-link" data-scroll-target="#support-vector-machine-svm">Support Vector Machine (SVM)</a></li>
+  <li><a href="#key-takeaways" id="toc-key-takeaways" class="nav-link" data-scroll-target="#key-takeaways">Key takeaways</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -158,7 +158,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Bank Loan Prediction – Machine Learning Model</h1>
+<h1 class="title">Bank Loan Approval – Machine Learning Models</h1>
 </div>
 
 
@@ -175,30 +175,27 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="bank-loan-approval-prediction" class="level1">
-<h1>🤖 Bank Loan Approval Prediction</h1>
+<section id="bank-loan-approval-prediction" class="level2">
+<h2 class="anchored" data-anchor-id="bank-loan-approval-prediction">Bank Loan Approval Prediction</h2>
+</section>
 <section id="project-overview" class="level2">
-<h2 class="anchored" data-anchor-id="project-overview">📖 Project Overview</h2>
-<p>In this project, I developed machine learning models to predict <strong>bank loan approvals</strong> based on applicant financial and demographic data.</p>
-<p>This included data preprocessing, feature engineering, model training, and performance evaluation.</p>
+<h2 class="anchored" data-anchor-id="project-overview">Project Overview</h2>
+<p>I developed and evaluated machine learning models to predict loan approvals using applicant financial and demographic data.<br>
+The goal was to identify patterns that predict whether an applicant would be approved for a bank loan.</p>
 <hr>
 </section>
-<section id="technologies-and-methods" class="level2">
-<h2 class="anchored" data-anchor-id="technologies-and-methods">🛠 Technologies and Methods</h2>
-<ul>
-<li><strong>Python</strong> (pandas, scikit-learn, matplotlib)</li>
-<li><strong>Models Built:</strong>
+<section id="models-built" class="level2">
+<h2 class="anchored" data-anchor-id="models-built">Models Built</h2>
 <ul>
 <li>Random Forest Classifier</li>
 <li>Decision Tree Classifier</li>
 <li>Logistic Regression</li>
 <li>Support Vector Machine (SVM)</li>
-</ul></li>
 </ul>
 <hr>
 </section>
-<section id="results" class="level2">
-<h2 class="anchored" data-anchor-id="results">📊 Results</h2>
+<section id="model-performance-comparison" class="level2">
+<h2 class="anchored" data-anchor-id="model-performance-comparison">Model Performance Comparison</h2>
 <table class="caption-top table">
 <thead>
 <tr class="header">
@@ -230,24 +227,71 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </tbody>
 </table>
-<ul>
-<li><strong>Random Forest</strong> achieved the best performance overall.</li>
-</ul>
 <hr>
 </section>
-<section id="visualisations" class="level2">
-<h2 class="anchored" data-anchor-id="visualisations">📈 Visualisations</h2>
-<ul>
-<li>ROC Curves for model comparison</li>
-<li>Pie charts showing class distribution</li>
-<li>Confusion matrices to interpret predictions</li>
-</ul>
+<section id="roc-curve-comparison" class="level2">
+<h2 class="anchored" data-anchor-id="roc-curve-comparison">ROC Curve Comparison</h2>
+<div class="quarto-figure quarto-figure-center" style="display: block; margin: auto;">
+<figure class="figure">
+<p><img src="../images/projects/bank-loan.jpg" class="img-fluid figure-img" width="600"></p>
+<figcaption>ROC Curves</figcaption>
+</figure>
+</div>
 <hr>
 </section>
-<section id="reflection" class="level2">
-<h2 class="anchored" data-anchor-id="reflection">🧠 Reflection</h2>
-<p>This project improved my skills in <strong>machine learning model development</strong>, <strong>model evaluation</strong>, and <strong>interpretation of results for real-world applications</strong>.</p>
-<p>It also highlighted the importance of balancing model complexity with interpretability when making decisions in finance and banking.</p>
+<section id="confusion-matrices" class="level1">
+<h1>Confusion Matrices</h1>
+<p>Below are the confusion matrices for each model:</p>
+<hr>
+<section id="random-forest-classifier" class="level2">
+<h2 class="anchored" data-anchor-id="random-forest-classifier">Random Forest Classifier</h2>
+<div class="quarto-figure quarto-figure-center" style="display: block; margin: auto;">
+<figure class="figure">
+<p><img src="../images/projects/confusion-forest.png" class="img-fluid figure-img" width="500"></p>
+<figcaption>Random Forest Confusion Matrix</figcaption>
+</figure>
+</div>
+<hr>
+</section>
+<section id="decision-tree-classifier" class="level2">
+<h2 class="anchored" data-anchor-id="decision-tree-classifier">Decision Tree Classifier</h2>
+<div class="quarto-figure quarto-figure-center" style="display: block; margin: auto;">
+<figure class="figure">
+<p><img src="../images/projects/confusion-tree.png" class="img-fluid figure-img" width="500"></p>
+<figcaption>Decision Tree Confusion Matrix</figcaption>
+</figure>
+</div>
+<hr>
+</section>
+<section id="logistic-regression" class="level2">
+<h2 class="anchored" data-anchor-id="logistic-regression">Logistic Regression</h2>
+<div class="quarto-figure quarto-figure-center" style="display: block; margin: auto;">
+<figure class="figure">
+<p><img src="../images/projects/confusion-LR.png" class="img-fluid figure-img" width="500"></p>
+<figcaption>Logistic Regression Confusion Matrix</figcaption>
+</figure>
+</div>
+<hr>
+</section>
+<section id="support-vector-machine-svm" class="level2">
+<h2 class="anchored" data-anchor-id="support-vector-machine-svm">Support Vector Machine (SVM)</h2>
+<div class="quarto-figure quarto-figure-center" style="display: block; margin: auto;">
+<figure class="figure">
+<p><img src="../images/projects/confusion-svm.png" class="img-fluid figure-img" width="500"></p>
+<figcaption>SVM Confusion Matrix</figcaption>
+</figure>
+</div>
+<hr>
+</section>
+<section id="key-takeaways" class="level2">
+<h2 class="anchored" data-anchor-id="key-takeaways">Key takeaways</h2>
+<ul>
+<li>Random Forest delivered the best overall performance.</li>
+<li>Logistic Regression served as a simple and interpretable baseline.</li>
+<li>SVM struggled due to dataset characteristics.</li>
+<li>Visualizations helped identify misclassifications and improve understanding of model behavior.</li>
+</ul>
+<hr>
 
 
 </section>
