@@ -4,7 +4,7 @@ format:
   html:
     page-layout: full
 ---
-(images/profile.jpeg){width=200px style="display: block; margin: auto; border-radius: 50%;"}
+profile (images/profile.jpeg){width=200px style="display: block; margin: auto; border-radius: 50%;"}
 
 # Hi I'm Liam Cummins
 
