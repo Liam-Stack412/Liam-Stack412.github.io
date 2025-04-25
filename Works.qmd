@@ -34,4 +34,4 @@ Explore projects I've worked on, grouped by focus area.
 - 🛍️ Go-to-market plan for water safety product  
 - 👨‍👩‍👧‍👦 Targeted parents and water hobbyists  
 - 📈 Revenue forecasts, competitor analysis, and positioning  
-- 🔗 [Explore Project](../projects/aquaband.qmd)
+- 🔗 [Explore Project](../projects/aquaband-Plan.pdf)
