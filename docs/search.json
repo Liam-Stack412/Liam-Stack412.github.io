@@ -35,20 +35,6 @@
     "text": "Overview\nFor our Business Strategy group project,we all had to work in teams of six and act as business consultants and assess a company based on their strategic advantages, resources/capabilities and possible weaknesses.This project was year-long and followed four key stages of strategy consulting: Orientation, Diagnostics, Intervention, and Evaluation\nMy group chose Grant Thornton as I have previous experience from working for the firm, and felt my experience and knowledge of this firm would be invaluable to the group.\nView Full strategy Here\n\n\nStrategic Highlights\n\nCompetition: Competing for brand recognition against the Big Four.\nTechnology: Investing in AI, automation, and data analytics to stay competitive.\nWorkforce: Emphasizing culture, career development, and talent retention.\nClient Relations: Strengthening trust and insights through client retention.\nSustainability: Expanding ESG services to meet market expectations.\n\n\n\nDiagnostics Summary\n\nOpportunities: Expand advisory services and sustainability consulting.\nThreats: Big Four competition and regulatory changes.\nStrengths: Global presence, tech investments, personalized services.\nWeaknesses: Lagging ESG initiatives and talent development challenges.\n\n\n\nKey Recommendations\n\nDefine KPIs for market expansion.\nIntroduce cross-functional teams and RPA.\nEnhance employee training and stakeholder engagement.\nStrengthen ESG leadership and analytics capabilities.\n\n\n\nConclusion\nGrant Thornton’s focus on mid-market specialization, innovation, and ESG leadership positions it well for sustainable growth and differentiation in the professional services market."
   },
   {
-    "objectID": "projects/GT.html#project-overview",
-    "href": "projects/GT.html#project-overview",
-    "title": "Grant Thornton Strategy Report",
-    "section": "",
-    "text": "This project analysed Grant Thornton’s global expansion strategy, focusing on emerging challenges with sustainability, artificial intelligence (AI) integration, and cultural tensions across international operations.\nThe report applied advanced strategic management frameworks to assess and guide the company’s globalisation efforts."
-  },
-  {
-    "objectID": "projects/GT.html#frameworks-used",
-    "href": "projects/GT.html#frameworks-used",
-    "title": "Grant Thornton Strategy Report",
-    "section": "",
-    "text": "VRIO Analysis – Assessing internal"
-  },
-  {
     "objectID": "projects/Aquaband.html",
     "href": "projects/Aquaband.html",
     "title": "Aquaband Defender",
@@ -70,11 +56,25 @@
     "text": "Raise water safety awareness\nLaunch in Irish market targeting parents and water enthusiasts\nAchieve first-year sales of 2,500+ units"
   },
   {
+    "objectID": "projects/Aquaband.html#project-marketing-video",
+    "href": "projects/Aquaband.html#project-marketing-video",
+    "title": "Aquaband Defender",
+    "section": "",
+    "text": "&lt;iframe width=“100%” height=“450” src=“https://youtu.be/2jHIlVDO8p8 frameborder=”0” allowfullscreen&gt;"
+  },
+  {
     "objectID": "projects/Aquaband.html#key-outputs",
     "href": "projects/Aquaband.html#key-outputs",
     "title": "Aquaband Defender",
     "section": "",
     "text": "Market segmentation strategy\nFinancial projections (€395,000 in first-year revenue)\nMarketing and promotional tactics"
+  },
+  {
+    "objectID": "projects/Aquaband.html#full-business-plan",
+    "href": "projects/Aquaband.html#full-business-plan",
+    "title": "Aquaband Defender",
+    "section": "",
+    "text": "View Full PDF Report"
   },
   {
     "objectID": "about.html",
@@ -115,29 +115,8 @@
     "objectID": "about.html#contact-me",
     "href": "about.html#contact-me",
     "title": "About",
-    "section": "Contact me",
-    "text": "Contact me"
-  },
-  {
-    "objectID": "about.html#email-liam.cummins26mail.dcu.ie",
-    "href": "about.html#email-liam.cummins26mail.dcu.ie",
-    "title": "About",
-    "section": "Email: Liam.cummins26@mail.dcu.ie",
-    "text": "Email: Liam.cummins26@mail.dcu.ie"
-  },
-  {
-    "objectID": "about.html#phone-number-353-0858428730",
-    "href": "about.html#phone-number-353-0858428730",
-    "title": "About",
-    "section": "phone number: +353 0858428730",
-    "text": "phone number: +353 0858428730"
-  },
-  {
-    "objectID": "about.html#linkedin-liam-cummins-httpswww.linkedin.cominliam-cummins-32251b1b9",
-    "href": "about.html#linkedin-liam-cummins-httpswww.linkedin.cominliam-cummins-32251b1b9",
-    "title": "About",
-    "section": "Linkedin: Liam Cummins (https://www.linkedin.com/in/liam-cummins-32251b1b9/)",
-    "text": "Linkedin: Liam Cummins (https://www.linkedin.com/in/liam-cummins-32251b1b9/)\nLocation: Dublin Ireland"
+    "section": "Contact Me",
+    "text": "Contact Me\nEmail:\nliam.cummins26@mail.dcu.ie\n\nPhone Number:\n+353 85 842 8730\n\nLinkedIn:\nLiam Cummins\n\nLocation:\nDublin, Ireland"
   },
   {
     "objectID": "index.html",
@@ -154,88 +133,11 @@
     "text": "Highlights\n\nFinal-year Business Student (DCU)\nInternship at Grant Thornton\nProjects of various modules\nDownloadable CV\nReflection"
   },
   {
-    "objectID": "projects/bank-loans.html",
-    "href": "projects/bank-loans.html",
-    "title": "Bank Loan Prediction – Machine Learning Model",
-    "section": "",
-    "text": "In this project, I developed machine learning models to predict bank loan approvals based on applicant financial and demographic data.\nThis included data preprocessing, feature engineering, model training, and performance evaluation.\n\n\n\n\n\nPython (pandas, scikit-learn, matplotlib)\nModels Built:\n\nRandom Forest Classifier\nDecision Tree Classifier\nLogistic Regression\nSupport Vector Machine (SVM)\n\n\n\n\n\n\n\n\n\nModel\nAccuracy (%)\nF1-Score\n\n\n\n\nRandom Forest\n97.9\n0.98\n\n\nDecision Tree\n97.3\n0.97\n\n\nLogistic Regression\n79.9\n0.79\n\n\nSVM\n62.8\n0.48\n\n\n\n\nRandom Forest achieved the best performance overall.\n\n\n\n\n\n\nROC Curves for model comparison\nPie charts showing class distribution\nConfusion matrices to interpret predictions\n\n\n\n\n\nThis project improved my skills in machine learning model development, model evaluation, and interpretation of results for real-world applications.\nIt also highlighted the importance of balancing model complexity with interpretability when making decisions in finance and banking."
-  },
-  {
     "objectID": "projects/bank-loans.html#project-overview",
     "href": "projects/bank-loans.html#project-overview",
     "title": "Bank Loan Approval – Machine Learning Models",
     "section": "Project Overview",
     "text": "Project Overview\nI developed and evaluated machine learning models to predict loan approvals using applicant financial and demographic data.\nThe goal was to identify patterns that predict whether an applicant would be approved for a bank loan."
-  },
-  {
-    "objectID": "projects/bank-loans.html#technologies-and-methods",
-    "href": "projects/bank-loans.html#technologies-and-methods",
-    "title": "Bank Loan Prediction – Machine Learning Model",
-    "section": "",
-    "text": "Python (pandas, scikit-learn, matplotlib)\nModels Built:\n\nRandom Forest Classifier\nDecision Tree Classifier\nLogistic Regression\nSupport Vector Machine (SVM)"
-  },
-  {
-    "objectID": "projects/bank-loans.html#results",
-    "href": "projects/bank-loans.html#results",
-    "title": "Bank Loan Prediction – Machine Learning Model",
-    "section": "",
-    "text": "Model\nAccuracy (%)\nF1-Score\n\n\n\n\nRandom Forest\n97.9\n0.98\n\n\nDecision Tree\n97.3\n0.97\n\n\nLogistic Regression\n79.9\n0.79\n\n\nSVM\n62.8\n0.48\n\n\n\n\nRandom Forest achieved the best performance overall."
-  },
-  {
-    "objectID": "projects/bank-loans.html#visualisations",
-    "href": "projects/bank-loans.html#visualisations",
-    "title": "Bank Loan Prediction – Machine Learning Model",
-    "section": "",
-    "text": "ROC Curves for model comparison\nPie charts showing class distribution\nConfusion matrices to interpret predictions"
-  },
-  {
-    "objectID": "projects/bank-loans.html#reflection",
-    "href": "projects/bank-loans.html#reflection",
-    "title": "Bank Loan Prediction – Machine Learning Model",
-    "section": "",
-    "text": "This project improved my skills in machine learning model development, model evaluation, and interpretation of results for real-world applications.\nIt also highlighted the importance of balancing model complexity with interpretability when making decisions in finance and banking."
-  },
-  {
-    "objectID": "Reflection.html",
-    "href": "Reflection.html",
-    "title": "Reflection",
-    "section": "",
-    "text": "From completing these various projects for this portfolio, I have found it to be a very informative and reflective experience. By utilizing Quarto and Github pages, I was able to effectively write and display my project. I developed practical skills in strategic business analysis, machine learning model building, and professional project presentation using Quarto and GitHub Pages.\nWorking on real-world scenarios, like the Grant Thornton strategy report and the Aquaband Defender marketing plan, helped me bridge the gap between academic theory and business application.\nAdditionally, building this ePortfolio strengthened my technical abilities in areas like website deployment, version control with Git, and data visualization — skills that are highly valuable in today’s digital economy."
-  },
-  {
-    "objectID": "Reflection.html#what-i-learned",
-    "href": "Reflection.html#what-i-learned",
-    "title": "Reflection",
-    "section": "",
-    "text": "From completing these various projects for this portfolio, I have found it to be a very informative and reflective experience. By utilizing Quarto and Github pages, I was able to effectively write and display my project. I developed practical skills in strategic business analysis, machine learning model building, and professional project presentation using Quarto and GitHub Pages.\nWorking on real-world scenarios, like the Grant Thornton strategy report and the Aquaband Defender marketing plan, helped me bridge the gap between academic theory and business application.\nAdditionally, building this ePortfolio strengthened my technical abilities in areas like website deployment, version control with Git, and data visualization — skills that are highly valuable in today’s digital economy."
-  },
-  {
-    "objectID": "Reflection.html#key-challenges",
-    "href": "Reflection.html#key-challenges",
-    "title": "Reflection",
-    "section": "Key Challenges",
-    "text": "Key Challenges\n\nTranslating Research into Recommendations:\nTurning academic frameworks into actionable business strategies was more difficult than I initially expected. It required critical thinking and creativity to move beyond simply summarizing theories.\nBalancing Technical and Academic Demands:\nManaging coding tasks (Python modeling, visualizations) while ensuring the written reports met academic standards was challenging but rewarding.\nIt taught me the importance of project planning and time management.\nTeam Collaboration:\nParticularly during the Grant Thornton group project, coordinating research, writing, and analysis with team members was a critical skill development opportunity."
-  },
-  {
-    "objectID": "Reflection.html#whats-next",
-    "href": "Reflection.html#whats-next",
-    "title": "Reflection",
-    "section": "What’s Next?",
-    "text": "What’s Next?\nAs I move toward graduation, I am excited to pursue graduate opportunities in financial analysis, business strategy, or data-driven consulting.\nThe skills and experiences captured in this portfolio — from technical modeling to strategic thinking — will serve as a strong foundation for my professional career.\nBuilding this portfolio also helped me realize the importance of lifelong learning, especially as technology continues to reshape the world of business.\nI look forward to applying these skills in real-world settings, continuously improving, and contributing to organizations that value innovation, analysis, and strategic insight."
-  },
-  {
-    "objectID": "projects/Aquaband.html#project-marketing-video",
-    "href": "projects/Aquaband.html#project-marketing-video",
-    "title": "Aquaband Defender",
-    "section": "",
-    "text": "&lt;iframe width=“100%” height=“450” src=“https://youtu.be/2jHIlVDO8p8 frameborder=”0” allowfullscreen&gt;"
-  },
-  {
-    "objectID": "projects/Aquaband.html#full-business-plan",
-    "href": "projects/Aquaband.html#full-business-plan",
-    "title": "Aquaband Defender",
-    "section": "",
-    "text": "View Full PDF Report"
   },
   {
     "objectID": "projects/bank-loans.html#models-built",
@@ -292,5 +194,33 @@
     "title": "Bank Loan Approval – Machine Learning Models",
     "section": "Key takeaways",
     "text": "Key takeaways\n\nRandom Forest delivered the best overall performance.\nLogistic Regression served as a simple and interpretable baseline.\nSVM struggled due to dataset characteristics.\nVisualizations helped identify misclassifications and improve understanding of model behavior."
+  },
+  {
+    "objectID": "Reflection.html",
+    "href": "Reflection.html",
+    "title": "Reflection",
+    "section": "",
+    "text": "From completing these various projects for this portfolio, I have found it to be a very informative and reflective experience. By utilizing Quarto and Github pages, I was able to effectively write and display my project. I developed practical skills in strategic business analysis, machine learning model building, and professional project presentation using Quarto and GitHub Pages.\nWorking on real-world scenarios, like the Grant Thornton strategy report and the Aquaband Defender marketing plan, helped me bridge the gap between academic theory and business application.\nAdditionally, building this ePortfolio strengthened my technical abilities in areas like website deployment, version control with Git, and data visualization — skills that are highly valuable in today’s digital economy."
+  },
+  {
+    "objectID": "Reflection.html#what-i-learned",
+    "href": "Reflection.html#what-i-learned",
+    "title": "Reflection",
+    "section": "",
+    "text": "From completing these various projects for this portfolio, I have found it to be a very informative and reflective experience. By utilizing Quarto and Github pages, I was able to effectively write and display my project. I developed practical skills in strategic business analysis, machine learning model building, and professional project presentation using Quarto and GitHub Pages.\nWorking on real-world scenarios, like the Grant Thornton strategy report and the Aquaband Defender marketing plan, helped me bridge the gap between academic theory and business application.\nAdditionally, building this ePortfolio strengthened my technical abilities in areas like website deployment, version control with Git, and data visualization — skills that are highly valuable in today’s digital economy."
+  },
+  {
+    "objectID": "Reflection.html#key-challenges",
+    "href": "Reflection.html#key-challenges",
+    "title": "Reflection",
+    "section": "Key Challenges",
+    "text": "Key Challenges\n\nTranslating Research into Recommendations:\nTurning academic frameworks into actionable business strategies was more difficult than I initially expected. It required critical thinking and creativity to move beyond simply summarizing theories.\nBalancing Technical and Academic Demands:\nManaging coding tasks (Python modeling, visualizations) while ensuring the written reports met academic standards was challenging but rewarding.\nIt taught me the importance of project planning and time management.\nTeam Collaboration:\nParticularly during the Grant Thornton group project, coordinating research, writing, and analysis with team members was a critical skill development opportunity."
+  },
+  {
+    "objectID": "Reflection.html#whats-next",
+    "href": "Reflection.html#whats-next",
+    "title": "Reflection",
+    "section": "What’s Next?",
+    "text": "What’s Next?\nAs I move toward graduation, I am excited to pursue graduate opportunities in financial analysis, business strategy, or data-driven consulting.\nThe skills and experiences captured in this portfolio — from technical modeling to strategic thinking — will serve as a strong foundation for my professional career.\nBuilding this portfolio also helped me realize the importance of lifelong learning, especially as technology continues to reshape the world of business.\nI look forward to applying these skills in real-world settings, continuously improving, and contributing to organizations that value innovation, analysis, and strategic insight."
   }
 ]
