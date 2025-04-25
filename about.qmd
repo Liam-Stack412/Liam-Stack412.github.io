@@ -35,12 +35,6 @@ Most importantly, my time at Grant Thornton helped solidify my passion for roles
 - Coding : Python (Pandas, Matplotlib), SQL, Excel
 - Reporting & Communication: Financial reporting, presentation design, collaborative team environments
 - Other Interests: Business innovation, marketing strategy, financial technologies, and sustainability in business
----
-## Personal Hobbies
-
-- Gym: I regularly workout in the gym 3-4 times a week.
-- Archery: I am a member of the DCU archery society, in which I attend practice twice a week, with the intentions of competing in competitions.
-- Video games: I like to relax by playing online video games with my friends.
 
 ---
 
