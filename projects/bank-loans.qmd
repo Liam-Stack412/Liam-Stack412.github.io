@@ -74,6 +74,6 @@ Below are the confusion matrices for each model:
 - Random Forest delivered the best overall performance.
 - Logistic Regression served as a simple and interpretable baseline.
 - SVM struggled due to dataset characteristics.
-- Visualizations helped identify misclassifications and improve understanding of model behavior.
+- Visualizations helped identify misclassifications and improve understanding of model behaviour.
 
 ---
