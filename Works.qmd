@@ -1,38 +1,10 @@
----
-title: "My Projects"
-page-layout: full
----
-
-# 📁 My Projects
-
-Explore projects I've worked on, grouped by focus area.
-
----
+# 🛠️ My Projects
 
 ## 🧭 Business Strategy
+- [📌 Grant Thornton Strategy Report](projects/grant-thornton.qmd)
 
-### 📌 Grant Thornton Strategy Report
-- 📅 **Year:** 2024  
-- ✍️ Analyzed GT’s global expansion using the Uppsala model  
-- 🧠 Used VRIO, Bartlett & Ghoshal, and Hofstede frameworks  
-- 🔗 [Read More](../projects/GT-Presentation.pdf)
+## 🎯 Marketing & Innovation
+- [🛟 Aquaband Defender](projects/aquaband.qmd)
 
----
-
-## 📈 Data Analytics
-
-### 🤖 Bank Loan Prediction
-- 🐍 Python, scikit-learn (Random Forest, SVM, Logistic Regression)  
-- 📊 Visuals: ROC curves, F1 scores, pie charts  
-- 🔗 [View Project](../projects/bank-loans.pdf)
-
----
-
-## 🎯 Marketing & Strategy
-
-### 🛟 Aquaband Defender
-- 🛍️ Go-to-market plan for water safety product  
-- 👨‍👩‍👧‍👦 Targeted parents and water hobbyists  
-- 📈 Revenue forecasts, competitor analysis, and positioning  
-- 🔗 [Explore Project](../projects/aquaband-Plan.pdf)
--[Watch the Aquaband Defender Video on YouTube](https://www.youtube.com/watch?v=2jHIlVDO8p8){target="_blank"}
+## 📈 Data Analytics & Machine Learning
+- [🤖 Bank Loan Prediction Model](projects/bank-loans.qmd)

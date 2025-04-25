@@ -14,10 +14,10 @@ I'm a final-year Business Studies student at DCU with a passion for finance, str
 
 ##  Highlights
 
-- 🎓 Final-year Business Student (DCU)
-- 💼 Internship at Grant Thornton
-- 📊 Python & SQL projects
-- 📄 Downloadable CV
-- 📈 Business strategy, analytics, and reflection
+- Final-year Business Student (DCU)
+- Internship at Grant Thornton
+- Python & SQL projects
+- Downloadable CV
+- reflection
 
 
