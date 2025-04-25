@@ -189,74 +189,67 @@
     "text": "Linkedin: Liam Cummins (https://www.linkedin.com/in/liam-cummins-32251b1b9/)\nLocation: Dublin Ireland"
   },
   {
-    "objectID": "bank-loans.html",
-    "href": "bank-loans.html",
-    "title": "Bank Loan Approval – Machine Learning Models",
-    "section": "",
-    "text": "I developed and evaluated machine learning models to predict loan approvals using applicant financial and demographic data.\nThe goal was to identify patterns that predict whether an applicant would be approved for a bank loan.\n\n\n\n\n\nRandom Forest Classifier\nDecision Tree Classifier\nLogistic Regression\nSupport Vector Machine (SVM)\n\n\n\n\n\n\n\n\nModel\nAccuracy (%)\nF1-Score\n\n\n\n\nRandom Forest\n97.9\n0.98\n\n\nDecision Tree\n97.3\n0.97\n\n\nLogistic Regression\n79.9\n0.79\n\n\nSVM\n62.8\n0.48\n\n\n\n\n\n\n\n\n\n\nROC Curves"
-  },
-  {
     "objectID": "bank-loans.html#project-overview",
     "href": "bank-loans.html#project-overview",
     "title": "Bank Loan Approval – Machine Learning Models",
-    "section": "",
-    "text": "I developed and evaluated machine learning models to predict loan approvals using applicant financial and demographic data.\nThe goal was to identify patterns that predict whether an applicant would be approved for a bank loan."
+    "section": "Project Overview",
+    "text": "Project Overview\nI developed and evaluated machine learning models to predict loan approvals using applicant financial and demographic data.\nThe goal was to identify patterns that predict whether an applicant would be approved for a bank loan."
   },
   {
     "objectID": "bank-loans.html#models-built",
     "href": "bank-loans.html#models-built",
     "title": "Bank Loan Approval – Machine Learning Models",
-    "section": "",
-    "text": "Random Forest Classifier\nDecision Tree Classifier\nLogistic Regression\nSupport Vector Machine (SVM)"
+    "section": "Models Built",
+    "text": "Models Built\n\nRandom Forest Classifier\nDecision Tree Classifier\nLogistic Regression\nSupport Vector Machine (SVM)"
   },
   {
     "objectID": "bank-loans.html#model-performance-comparison",
     "href": "bank-loans.html#model-performance-comparison",
     "title": "Bank Loan Approval – Machine Learning Models",
-    "section": "",
-    "text": "Model\nAccuracy (%)\nF1-Score\n\n\n\n\nRandom Forest\n97.9\n0.98\n\n\nDecision Tree\n97.3\n0.97\n\n\nLogistic Regression\n79.9\n0.79\n\n\nSVM\n62.8\n0.48"
+    "section": "Model Performance Comparison",
+    "text": "Model Performance Comparison\n\n\n\nModel\nAccuracy (%)\nF1-Score\n\n\n\n\nRandom Forest\n97.9\n0.98\n\n\nDecision Tree\n97.3\n0.97\n\n\nLogistic Regression\n79.9\n0.79\n\n\nSVM\n62.8\n0.48"
   },
   {
     "objectID": "bank-loans.html#roc-curve-comparison",
     "href": "bank-loans.html#roc-curve-comparison",
     "title": "Bank Loan Approval – Machine Learning Models",
-    "section": "",
-    "text": "ROC Curves"
+    "section": "ROC Curve Comparison",
+    "text": "ROC Curve Comparison\n\n\n\nROC Curves"
   },
   {
     "objectID": "bank-loans.html#random-forest-classifier",
     "href": "bank-loans.html#random-forest-classifier",
     "title": "Bank Loan Approval – Machine Learning Models",
-    "section": "🌳 Random Forest Classifier",
-    "text": "🌳 Random Forest Classifier\n\n\n\nRandom Forest Confusion Matrix"
+    "section": "Random Forest Classifier",
+    "text": "Random Forest Classifier\n\n\n\nRandom Forest Confusion Matrix"
   },
   {
     "objectID": "bank-loans.html#decision-tree-classifier",
     "href": "bank-loans.html#decision-tree-classifier",
     "title": "Bank Loan Approval – Machine Learning Models",
-    "section": "🌳 Decision Tree Classifier",
-    "text": "🌳 Decision Tree Classifier\n\n\n\nDecision Tree Confusion Matrix"
+    "section": "Decision Tree Classifier",
+    "text": "Decision Tree Classifier\n\n\n\nDecision Tree Confusion Matrix"
   },
   {
     "objectID": "bank-loans.html#logistic-regression",
     "href": "bank-loans.html#logistic-regression",
     "title": "Bank Loan Approval – Machine Learning Models",
-    "section": "📈 Logistic Regression",
-    "text": "📈 Logistic Regression\n\n\n\nLogistic Regression Confusion Matrix"
+    "section": "Logistic Regression",
+    "text": "Logistic Regression\n\n\n\nLogistic Regression Confusion Matrix"
   },
   {
     "objectID": "bank-loans.html#support-vector-machine-svm",
     "href": "bank-loans.html#support-vector-machine-svm",
     "title": "Bank Loan Approval – Machine Learning Models",
-    "section": "✖️ Support Vector Machine (SVM)",
-    "text": "✖️ Support Vector Machine (SVM)\n\n\n\nSVM Confusion Matrix"
+    "section": "Support Vector Machine (SVM)",
+    "text": "Support Vector Machine (SVM)\n\n\n\nSVM Confusion Matrix"
   },
   {
     "objectID": "bank-loans.html#key-takeaways",
     "href": "bank-loans.html#key-takeaways",
     "title": "Bank Loan Approval – Machine Learning Models",
-    "section": "🧠 Key takeaways",
-    "text": "🧠 Key takeaways\n\nRandom Forest delivered the best overall performance.\nLogistic Regression served as a simple and interpretable baseline.\nSVM struggled due to dataset characteristics.\nVisualizations helped identify misclassifications and improve understanding of model behavior."
+    "section": "Key takeaways",
+    "text": "Key takeaways\n\nRandom Forest delivered the best overall performance.\nLogistic Regression served as a simple and interpretable baseline.\nSVM struggled due to dataset characteristics.\nVisualizations helped identify misclassifications and improve understanding of model behavior."
   },
   {
     "objectID": "index.html",
