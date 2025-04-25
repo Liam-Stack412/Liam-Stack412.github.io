@@ -46,25 +46,25 @@ Below are the confusion matrices for each model:
 
 ## Random Forest Classifier
 
-![Random Forest Confusion Matrix](../images/projects/confusion-forest.png){width=500px style="display: block; margin: auto;"}
+![Random Forest Confusion Matrix](../images/projects/forest.png){width=500px style="display: block; margin: auto;"}
 
 ---
 
 ## Decision Tree Classifier
 
-![Decision Tree Confusion Matrix](../images/projects/confusion-tree.png){width=500px style="display: block; margin: auto;"}
+![Decision Tree Confusion Matrix](../images/projects/tree.png){width=500px style="display: block; margin: auto;"}
 
 ---
 
 ## Logistic Regression
 
-![Logistic Regression Confusion Matrix](../images/projects/confusion-LR.png){width=500px style="display: block; margin: auto;"}
+![Logistic Regression Confusion Matrix](../images/projects/LR.png){width=500px style="display: block; margin: auto;"}
 
 ---
 
 ## Support Vector Machine (SVM)
 
-![SVM Confusion Matrix](../images/projects/confusion-SVM.png){width=500px style="display: block; margin: auto;"}
+![SVM Confusion Matrix](../images/projects/SVM.png){width=500px style="display: block; margin: auto;"}
 
 
 ---
