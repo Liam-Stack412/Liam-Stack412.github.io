@@ -3,7 +3,7 @@ title: "Reflections on Web Design"
 page-layout: full
 ---
 
-# Reflection on Designing My ePortfolio Website
+## Reflection on Designing My ePortfolio Website
 
 Building this ePortfolio website, proved to be a lengthy assignment, but was a valuable and necessary experience to develop practical skills in web development, project organisation, and digital presentation.  
 This reflection focuses specifically on the process of creating, customizing, and deploying my site.
@@ -39,7 +39,7 @@ This reflection focuses specifically on the process of creating, customizing, an
 
 ---
 
-## 🚀 Skills Developed
+## Skills Developed
 
 - Creating and configuring a Quarto project website.
 - Publishing live websites using GitHub Pages.
@@ -48,7 +48,7 @@ This reflection focuses specifically on the process of creating, customizing, an
 
 ---
 
-## 🧭 Future Improvements
+## Future Improvements
 
 If I had more time, I would explore:
 - Utilizing python and SQL in its relationship with Quarto to make more interactive pages.
@@ -57,7 +57,7 @@ If I had more time, I would explore:
 
 ---
 
-## 📈 Overall Reflection
+## Overall Reflection
 
 Building this website gave me a deeper appreciation for digital presentation skills and project-based learning. 
 It also taught me the importance of attention to detail, organization, and continuous testing when creating my own website porfolio.
