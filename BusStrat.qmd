@@ -1,9 +1,0 @@
-
-
-## 🧭 Business Strategy
-
-### 📌 Grant Thornton Strategy Report
-- 📅 **Year:** 2024  
-- ✍️ Analyzed GT’s global expansion using the Uppsala model  
-- 🧠 Used VRIO, Bartlett & Ghoshal, and Hofstede frameworks  
-- 🔗 [Read More](../projects/grant-thornton.pdf)

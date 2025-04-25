@@ -1,26 +1,29 @@
-navbar:
-  left:
-    - href: index.qmd
-      text: Home
-      icon: house-door-fill
-    - href: about.qmd
-      text: About Me
-    - text: My Projects
-      menu:
-        - href: busStrat.qmd
-          text: Business Strategy
-        
-    - href: Reflection.qmd
-      text: Reflection
-    - href: CV.pdf
-      text: My CV
+type: website
+output-dir: docs
 
-  right:
-    - icon: github
-      href: https://github.com/Liam-Stack412/Liam-Stack412.github.io
-    - icon: linkedin 
-      href: https://www.linkedin.com/in/liam-cummins-32251b1b9/
-
+website:
+  title: "Liam Cummins"
+  search: true
+  navbar:
+  
+    left:
+      - href: index.qmd
+        text: Home
+        icon: house-door-fill
+      - href: about.qmd
+        text: About me
+      - href: Works.qmd
+        text: My Projects
+      - href: Reflection.qmd
+        text: Reflection
+      - href: CV.pdf
+        text: My CV
+     
+    right:
+      - icon: github
+        href: https://github.com/Liam-Stack412/Liam-Stack412.github.io
+      - icon: linkedin 
+        href: https://www.linkedin.com/in/liam-cummins-32251b1b9/
 format:
   html:
     theme: Cerulean
