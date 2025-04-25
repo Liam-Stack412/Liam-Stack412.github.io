@@ -39,5 +39,5 @@ Aquaband Defender is a GPS-enabled safety band designed to prevent water acciden
 ## Full Business Plan
 
 <p style="text-align: center;">
-  <a href="../files/business-plan.pdf" target="_blank" class="btn btn-primary"> View Full PDF Report</a>
+  <a href="../files/plan.pdf" target="_blank" class="btn btn-primary"> View Full PDF Report</a>
 </p>
