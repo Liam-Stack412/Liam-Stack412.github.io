@@ -191,43 +191,57 @@
   {
     "objectID": "Reflection.html",
     "href": "Reflection.html",
-    "title": "Reflections on Web Design",
+    "title": "Reflection",
     "section": "",
-    "text": "Building this ePortfolio website, proved to be a lengthy assignment, but was a valuable and necessary experience to develop practical skills in web development, project organisation, and digital presentation.\nThis reflection focuses specifically on the process of creating, customizing, and deploying my site.\n\n\n\n\nUsing Quarto and GitHub Pages:\nI learned how to create a static website using Quarto, structure projects into .qmd files, and deploy the finished site through GitHub Pages.\nVersion Control with Git:\nI gained experience committing changes, managing repositories, and ensuring my project history was well-organized and recoverable through Git version control.\nCustomizing Website Design:\nI explored how to modify site appearance using themes, SCSS font imports from Google Fonts (Montserrat), and small layout changes such as columns and grids.\nMultimedia Integration:\nI successfully embedded my Aquaband Defener YouTube video, inserted images related to my projects, and linked downloadable PDFs to enrich my portfolio and demonstrate project outcomes.\n\n\n\n\n\n\nUnderstanding Quarto’s Structure:\nSetting up _quarto.yml and correctly linking subpages (especially handling project subsections) initially required careful troubleshooting and attention to syntax.\nManaging Relative File Paths:\nEnsuring images, PDFs, and internal links pointed correctly across the directory structure was challenging, particularly when organizing into folders like projects/, images/, and files/. When relative paths failed, it mean’t more time was dedicated to finding the problem for something that would be a considerably minor part of this portfolio.\nWebsite Aesthetics and Usability:\nFinding the right balance between simplicity and design detail. I had to go through several testings as I often leaned more towards complex design, however I started go for simpler approach that offered more value in transparency.\n\n\n\n\n\n\nCreating and configuring a Quarto project website.\nPublishing live websites using GitHub Pages.\nApplying basic HTML and CSS/SCSS for design improvements\nEmbedding multimedia content and customising layout.\n\n\n\n\n\nIf I had more time, I would explore: - Utilizing python and SQL in its relationship with Quarto to make more interactive pages. - Remember pitfalls from previous experience to be better equipt for the next project. - Consider implementing animation into the slides.\n\n\n\n\nBuilding this website gave me a deeper appreciation for digital presentation skills and project-based learning. It also taught me the importance of attention to detail, organization, and continuous testing when creating my own website porfolio.\nThis experience has strengthened my confidence in setting up and devloping authentic web pages, a skill I will carry forward into my future career development."
+    "text": "From completing these various projects for this portfolio, I have found it to be a very informative and reflective experience. By utilizing Quarto and Github pages, I was able to effectively write and display my project. I developed practical skills in strategic business analysis, machine learning model building, and professional project presentation using Quarto and GitHub Pages.\nWorking on real-world scenarios, like the Grant Thornton strategy report and the Aquaband Defender marketing plan, helped me bridge the gap between academic theory and business application.\nAdditionally, building this ePortfolio strengthened my technical abilities in areas like website deployment, version control with Git, and data visualization — skills that are highly valuable in today’s digital economy."
   },
   {
     "objectID": "Reflection.html#what-i-learned",
     "href": "Reflection.html#what-i-learned",
-    "title": "Reflections on Web Design",
+    "title": "Reflection",
     "section": "",
-    "text": "Using Quarto and GitHub Pages:\nI learned how to create a static website using Quarto, structure projects into .qmd files, and deploy the finished site through GitHub Pages.\nVersion Control with Git:\nI gained experience committing changes, managing repositories, and ensuring my project history was well-organized and recoverable through Git version control.\nCustomizing Website Design:\nI explored how to modify site appearance using themes, SCSS font imports from Google Fonts (Montserrat), and small layout changes such as columns and grids.\nMultimedia Integration:\nI successfully embedded my Aquaband Defener YouTube video, inserted images related to my projects, and linked downloadable PDFs to enrich my portfolio and demonstrate project outcomes."
+    "text": "From completing these various projects for this portfolio, I have found it to be a very informative and reflective experience. By utilizing Quarto and Github pages, I was able to effectively write and display my project. I developed practical skills in strategic business analysis, machine learning model building, and professional project presentation using Quarto and GitHub Pages.\nWorking on real-world scenarios, like the Grant Thornton strategy report and the Aquaband Defender marketing plan, helped me bridge the gap between academic theory and business application.\nAdditionally, building this ePortfolio strengthened my technical abilities in areas like website deployment, version control with Git, and data visualization — skills that are highly valuable in today’s digital economy."
   },
   {
     "objectID": "Reflection.html#key-challenges",
     "href": "Reflection.html#key-challenges",
-    "title": "Reflections on Web Design",
-    "section": "",
-    "text": "Understanding Quarto’s Structure:\nSetting up _quarto.yml and correctly linking subpages (especially handling project subsections) initially required careful troubleshooting and attention to syntax.\nManaging Relative File Paths:\nEnsuring images, PDFs, and internal links pointed correctly across the directory structure was challenging, particularly when organizing into folders like projects/, images/, and files/. When relative paths failed, it mean’t more time was dedicated to finding the problem for something that would be a considerably minor part of this portfolio.\nWebsite Aesthetics and Usability:\nFinding the right balance between simplicity and design detail. I had to go through several testings as I often leaned more towards complex design, however I started go for simpler approach that offered more value in transparency."
+    "title": "Reflection",
+    "section": "Key Challenges",
+    "text": "Key Challenges\n\nTranslating Research into Recommendations:\nTurning academic frameworks into actionable business strategies was more difficult than I initially expected. It required critical thinking and creativity to move beyond simply summarizing theories.\nBalancing Technical and Academic Demands:\nManaging coding tasks (Python modeling, visualizations) while ensuring the written reports met academic standards was challenging but rewarding.\nIt taught me the importance of project planning and time management.\nTeam Collaboration:\nParticularly during the Grant Thornton group project, coordinating research, writing, and analysis with team members was a critical skill development opportunity."
   },
   {
     "objectID": "Reflection.html#skills-developed",
     "href": "Reflection.html#skills-developed",
     "title": "Reflections on Web Design",
-    "section": "",
-    "text": "Creating and configuring a Quarto project website.\nPublishing live websites using GitHub Pages.\nApplying basic HTML and CSS/SCSS for design improvements\nEmbedding multimedia content and customising layout."
+    "section": "Skills Developed",
+    "text": "Skills Developed\n\nCreating and configuring a Quarto project website.\nPublishing live websites using GitHub Pages.\nApplying basic HTML and CSS/SCSS for design improvements\nEmbedding multimedia content and customising layout."
   },
   {
     "objectID": "Reflection.html#future-improvements",
     "href": "Reflection.html#future-improvements",
     "title": "Reflections on Web Design",
-    "section": "",
-    "text": "If I had more time, I would explore: - Utilizing python and SQL in its relationship with Quarto to make more interactive pages. - Remember pitfalls from previous experience to be better equipt for the next project. - Consider implementing animation into the slides."
+    "section": "Future Improvements",
+    "text": "Future Improvements\nIf I had more time, I would explore: - Utilizing python and SQL in its relationship with Quarto to make more interactive pages. - Remember pitfalls from previous experience to be better equipt for the next project. - Consider implementing animation into the slides."
   },
   {
     "objectID": "Reflection.html#overall-reflection",
     "href": "Reflection.html#overall-reflection",
     "title": "Reflections on Web Design",
+    "section": "Overall Reflection",
+    "text": "Overall Reflection\nBuilding this website gave me a deeper appreciation for digital presentation skills and project-based learning. It also taught me the importance of attention to detail, organization, and continuous testing when creating my own website porfolio.\nThis experience has strengthened my confidence in setting up and devloping authentic web pages, a skill I will carry forward into my future career development."
+  },
+  {
+    "objectID": "Reflection.html#reflection-on-designing-my-eportfolio-website",
+    "href": "Reflection.html#reflection-on-designing-my-eportfolio-website",
+    "title": "Reflections on Web Design",
     "section": "",
-    "text": "Building this website gave me a deeper appreciation for digital presentation skills and project-based learning. It also taught me the importance of attention to detail, organization, and continuous testing when creating my own website porfolio.\nThis experience has strengthened my confidence in setting up and devloping authentic web pages, a skill I will carry forward into my future career development."
+    "text": "Building this ePortfolio website, proved to be a lengthy assignment, but was a valuable and necessary experience to develop practical skills in web development, project organisation, and digital presentation.\nThis reflection focuses specifically on the process of creating, customizing, and deploying my site."
+  },
+  {
+    "objectID": "Reflection.html#whats-next",
+    "href": "Reflection.html#whats-next",
+    "title": "Reflection",
+    "section": "What’s Next?",
+    "text": "What’s Next?\nAs I move toward graduation, I am excited to pursue graduate opportunities in financial analysis, business strategy, or data-driven consulting.\nThe skills and experiences captured in this portfolio — from technical modeling to strategic thinking — will serve as a strong foundation for my professional career.\nBuilding this portfolio also helped me realize the importance of lifelong learning, especially as technology continues to reshape the world of business.\nI look forward to applying these skills in real-world settings, continuously improving, and contributing to organizations that value innovation, analysis, and strategic insight."
   }
 ]
