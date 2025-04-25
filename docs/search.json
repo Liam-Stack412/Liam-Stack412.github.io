@@ -2,30 +2,30 @@
   {
     "objectID": "Works.html",
     "href": "Works.html",
-    "title": "My Projects",
+    "title": "🛠️ My Projects",
     "section": "",
-    "text": "Explore projects I’ve worked on, grouped by focus area.\n\n\n\n\n\n\n📅 Year: 2024\n\n✍️ Analyzed GT’s global expansion using the Uppsala model\n\n🧠 Used VRIO, Bartlett & Ghoshal, and Hofstede frameworks\n\n🔗 Read More\n\n\n\n\n\n\n\n\n\n🐍 Python, scikit-learn (Random Forest, SVM, Logistic Regression)\n\n📊 Visuals: ROC curves, F1 scores, pie charts\n\n🔗 View Project\n\n\n\n\n\n\n\n\n\n🛍️ Go-to-market plan for water safety product\n\n👨‍👩‍👧‍👦 Targeted parents and water hobbyists\n\n📈 Revenue forecasts, competitor analysis, and positioning\n\n🔗 Explore Project -Watch the Aquaband Defender Video on YouTube"
+    "text": "📌 Grant Thornton Strategy Report\n\n\n\n\n\n🛟 Aquaband Defender\n\n\n\n\n\n🤖 Bank Loan Prediction Model"
   },
   {
     "objectID": "Works.html#business-strategy",
     "href": "Works.html#business-strategy",
-    "title": "My Projects",
+    "title": "🛠️ My Projects",
     "section": "",
-    "text": "📅 Year: 2024\n\n✍️ Analyzed GT’s global expansion using the Uppsala model\n\n🧠 Used VRIO, Bartlett & Ghoshal, and Hofstede frameworks\n\n🔗 Read More"
+    "text": "📌 Grant Thornton Strategy Report"
   },
   {
-    "objectID": "Works.html#data-analytics",
-    "href": "Works.html#data-analytics",
-    "title": "My Projects",
+    "objectID": "Works.html#marketing-innovation",
+    "href": "Works.html#marketing-innovation",
+    "title": "🛠️ My Projects",
     "section": "",
-    "text": "🐍 Python, scikit-learn (Random Forest, SVM, Logistic Regression)\n\n📊 Visuals: ROC curves, F1 scores, pie charts\n\n🔗 View Project"
+    "text": "🛟 Aquaband Defender"
   },
   {
-    "objectID": "Works.html#marketing-strategy",
-    "href": "Works.html#marketing-strategy",
-    "title": "My Projects",
+    "objectID": "Works.html#data-analytics-machine-learning",
+    "href": "Works.html#data-analytics-machine-learning",
+    "title": "🛠️ My Projects",
     "section": "",
-    "text": "🛍️ Go-to-market plan for water safety product\n\n👨‍👩‍👧‍👦 Targeted parents and water hobbyists\n\n📈 Revenue forecasts, competitor analysis, and positioning\n\n🔗 Explore Project -Watch the Aquaband Defender Video on YouTube"
+    "text": "🤖 Bank Loan Prediction Model"
   },
   {
     "objectID": "index.html",
@@ -39,7 +39,49 @@
     "href": "index.html#highlights",
     "title": "Welcome",
     "section": "Highlights",
-    "text": "Highlights\n\n🎓 Final-year Business Student (DCU)\n💼 Internship at Grant Thornton\n📊 Python & SQL projects\n📄 Downloadable CV\n📈 Business strategy, analytics, and reflection"
+    "text": "Highlights\n\nFinal-year Business Student (DCU)\nInternship at Grant Thornton\nPython & SQL projects\nDownloadable CV\nreflection"
+  },
+  {
+    "objectID": "bank-loans.html",
+    "href": "bank-loans.html",
+    "title": "Bank Loan Prediction – Machine Learning Model",
+    "section": "",
+    "text": "In this project, I developed machine learning models to predict bank loan approvals based on applicant financial and demographic data.\nThis included data preprocessing, feature engineering, model training, and performance evaluation.\n\n\n\n\n\nPython (pandas, scikit-learn, matplotlib)\nModels Built:\n\nRandom Forest Classifier\nDecision Tree Classifier\nLogistic Regression\nSupport Vector Machine (SVM)\n\n\n\n\n\n\n\n\n\nModel\nAccuracy (%)\nF1-Score\n\n\n\n\nRandom Forest\n97.9\n0.98\n\n\nDecision Tree\n97.3\n0.97\n\n\nLogistic Regression\n79.9\n0.79\n\n\nSVM\n62.8\n0.48\n\n\n\n\nRandom Forest achieved the best performance overall.\n\n\n\n\n\n\nROC Curves for model comparison\nPie charts showing class distribution\nConfusion matrices to interpret predictions\n\n\n\n\n\nThis project improved my skills in machine learning model development, model evaluation, and interpretation of results for real-world applications.\nIt also highlighted the importance of balancing model complexity with interpretability when making decisions in finance and banking."
+  },
+  {
+    "objectID": "bank-loans.html#project-overview",
+    "href": "bank-loans.html#project-overview",
+    "title": "Bank Loan Prediction – Machine Learning Model",
+    "section": "",
+    "text": "In this project, I developed machine learning models to predict bank loan approvals based on applicant financial and demographic data.\nThis included data preprocessing, feature engineering, model training, and performance evaluation."
+  },
+  {
+    "objectID": "bank-loans.html#technologies-and-methods",
+    "href": "bank-loans.html#technologies-and-methods",
+    "title": "Bank Loan Prediction – Machine Learning Model",
+    "section": "",
+    "text": "Python (pandas, scikit-learn, matplotlib)\nModels Built:\n\nRandom Forest Classifier\nDecision Tree Classifier\nLogistic Regression\nSupport Vector Machine (SVM)"
+  },
+  {
+    "objectID": "bank-loans.html#results",
+    "href": "bank-loans.html#results",
+    "title": "Bank Loan Prediction – Machine Learning Model",
+    "section": "",
+    "text": "Model\nAccuracy (%)\nF1-Score\n\n\n\n\nRandom Forest\n97.9\n0.98\n\n\nDecision Tree\n97.3\n0.97\n\n\nLogistic Regression\n79.9\n0.79\n\n\nSVM\n62.8\n0.48\n\n\n\n\nRandom Forest achieved the best performance overall."
+  },
+  {
+    "objectID": "bank-loans.html#visualisations",
+    "href": "bank-loans.html#visualisations",
+    "title": "Bank Loan Prediction – Machine Learning Model",
+    "section": "",
+    "text": "ROC Curves for model comparison\nPie charts showing class distribution\nConfusion matrices to interpret predictions"
+  },
+  {
+    "objectID": "bank-loans.html#reflection",
+    "href": "bank-loans.html#reflection",
+    "title": "Bank Loan Prediction – Machine Learning Model",
+    "section": "",
+    "text": "This project improved my skills in machine learning model development, model evaluation, and interpretation of results for real-world applications.\nIt also highlighted the importance of balancing model complexity with interpretability when making decisions in finance and banking."
   },
   {
     "objectID": "about.html",
@@ -81,7 +123,77 @@
     "href": "about.html#contact-me",
     "title": "About",
     "section": "Contact me",
-    "text": "Contact me\n-Email: Liam.cummins26@mail.dcu.ie -phone number: +353 0858428730 -Linkedin: Liam Cummins (https://www.linkedin.com/in/liam-cummins-32251b1b9/) -Location: Dublin Ireland"
+    "text": "Contact me"
+  },
+  {
+    "objectID": "about.html#email-liam.cummins26mail.dcu.ie",
+    "href": "about.html#email-liam.cummins26mail.dcu.ie",
+    "title": "About",
+    "section": "Email: Liam.cummins26@mail.dcu.ie",
+    "text": "Email: Liam.cummins26@mail.dcu.ie"
+  },
+  {
+    "objectID": "about.html#phone-number-353-0858428730",
+    "href": "about.html#phone-number-353-0858428730",
+    "title": "About",
+    "section": "phone number: +353 0858428730",
+    "text": "phone number: +353 0858428730"
+  },
+  {
+    "objectID": "about.html#linkedin-liam-cummins-httpswww.linkedin.cominliam-cummins-32251b1b9",
+    "href": "about.html#linkedin-liam-cummins-httpswww.linkedin.cominliam-cummins-32251b1b9",
+    "title": "About",
+    "section": "Linkedin: Liam Cummins (https://www.linkedin.com/in/liam-cummins-32251b1b9/)",
+    "text": "Linkedin: Liam Cummins (https://www.linkedin.com/in/liam-cummins-32251b1b9/)\nLocation: Dublin Ireland"
+  },
+  {
+    "objectID": "Aquaband.html",
+    "href": "Aquaband.html",
+    "title": "Aquaband Defender",
+    "section": "",
+    "text": "Aquaband Defender is a GPS-enabled safety band designed to prevent water accidents among children and hobbyists. This project includes market research, SWOT analysis, competitive benchmarking, and a full launch strategy.\n\n\n\n\n\nRaise water safety awareness\nLaunch in Irish market targeting parents and water enthusiasts\nAchieve first-year sales of 2,500+ units\n\n\n\n\n\n\n\n\n\n\n\n\nMarket segmentation strategy\nFinancial projections (€395,000 in first-year revenue)\nMarketing and promotional tactics"
+  },
+  {
+    "objectID": "Aquaband.html#project-overview",
+    "href": "Aquaband.html#project-overview",
+    "title": "Aquaband Defender",
+    "section": "",
+    "text": "Aquaband Defender is a GPS-enabled safety band designed to prevent water accidents among children and hobbyists. This project includes market research, SWOT analysis, competitive benchmarking, and a full launch strategy."
+  },
+  {
+    "objectID": "Aquaband.html#objectives",
+    "href": "Aquaband.html#objectives",
+    "title": "Aquaband Defender",
+    "section": "",
+    "text": "Raise water safety awareness\nLaunch in Irish market targeting parents and water enthusiasts\nAchieve first-year sales of 2,500+ units"
+  },
+  {
+    "objectID": "Aquaband.html#key-outputs",
+    "href": "Aquaband.html#key-outputs",
+    "title": "Aquaband Defender",
+    "section": "",
+    "text": "Market segmentation strategy\nFinancial projections (€395,000 in first-year revenue)\nMarketing and promotional tactics"
+  },
+  {
+    "objectID": "Grant Thornton.html",
+    "href": "Grant Thornton.html",
+    "title": "Grant Thornton Strategy Report",
+    "section": "",
+    "text": "This project analysed Grant Thornton’s global expansion strategy, focusing on emerging challenges with sustainability, artificial intelligence (AI) integration, and cultural tensions across international operations.\nThe report applied advanced strategic management frameworks to assess and guide the company’s globalisation efforts.\n\n\n\n\n\nVRIO Analysis – Assessing internal"
+  },
+  {
+    "objectID": "Grant Thornton.html#project-overview",
+    "href": "Grant Thornton.html#project-overview",
+    "title": "Grant Thornton Strategy Report",
+    "section": "",
+    "text": "This project analysed Grant Thornton’s global expansion strategy, focusing on emerging challenges with sustainability, artificial intelligence (AI) integration, and cultural tensions across international operations.\nThe report applied advanced strategic management frameworks to assess and guide the company’s globalisation efforts."
+  },
+  {
+    "objectID": "Grant Thornton.html#frameworks-used",
+    "href": "Grant Thornton.html#frameworks-used",
+    "title": "Grant Thornton Strategy Report",
+    "section": "",
+    "text": "VRIO Analysis – Assessing internal"
   },
   {
     "objectID": "Reflection.html",
@@ -110,26 +222,5 @@
     "title": "Reflections",
     "section": "🚀 What’s Next?",
     "text": "🚀 What’s Next?\nI’m excited to explore graduate roles in financial analysis and strategy. This portfolio helped me reflect on how far I’ve come — and where I’m going next."
-  },
-  {
-    "objectID": "about.html#email-liam.cummins26mail.dcu.ie",
-    "href": "about.html#email-liam.cummins26mail.dcu.ie",
-    "title": "About",
-    "section": "Email: Liam.cummins26@mail.dcu.ie",
-    "text": "Email: Liam.cummins26@mail.dcu.ie"
-  },
-  {
-    "objectID": "about.html#phone-number-353-0858428730",
-    "href": "about.html#phone-number-353-0858428730",
-    "title": "About",
-    "section": "phone number: +353 0858428730",
-    "text": "phone number: +353 0858428730"
-  },
-  {
-    "objectID": "about.html#linkedin-liam-cummins-httpswww.linkedin.cominliam-cummins-32251b1b9",
-    "href": "about.html#linkedin-liam-cummins-httpswww.linkedin.cominliam-cummins-32251b1b9",
-    "title": "About",
-    "section": "Linkedin: Liam Cummins (https://www.linkedin.com/in/liam-cummins-32251b1b9/)",
-    "text": "Linkedin: Liam Cummins (https://www.linkedin.com/in/liam-cummins-32251b1b9/)\nLocation: Dublin Ireland"
   }
 ]
