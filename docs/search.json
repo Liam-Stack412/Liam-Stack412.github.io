@@ -186,7 +186,7 @@
     "href": "projects/bank-loans.html#key-takeaways",
     "title": "Bank Loan Approval – Machine Learning Models",
     "section": "Key takeaways",
-    "text": "Key takeaways\n\nRandom Forest delivered the best overall performance.\nLogistic Regression served as a simple and interpretable baseline.\nSVM struggled due to dataset characteristics.\nVisualizations helped identify misclassifications and improve understanding of model behavior."
+    "text": "Key takeaways\n\nRandom Forest delivered the best overall performance.\nLogistic Regression served as a simple and interpretable baseline.\nSVM struggled due to dataset characteristics.\nVisualizations helped identify misclassifications and improve understanding of model behaviour."
   },
   {
     "objectID": "Reflection.html",
