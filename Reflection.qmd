@@ -1,18 +1,40 @@
 ---
-title: "Reflections"
+title: "Reflection"
 ---
 
-## 🧭 What I Learned
+## What I Learned
 
-- Improved project planning and collaboration
-- Developed technical skills in Python and strategic frameworks
+From completing these various projects for this portfolio, I have found it to be a very informative and reflective experience. By utilizing Quarto and Github pages, I was able to effectively write and display my project. 
+I developed practical skills in **strategic business analysis**, **machine learning model building**, and **professional project presentation** using Quarto and GitHub Pages.
 
-## 🔍 Key Challenges
+Working on real-world scenarios, like the Grant Thornton strategy report and the Aquaband Defender marketing plan, helped me bridge the gap between **academic theory** and **business application**.
 
-- Translating research into business recommendations
-- Balancing technical and academic demands
+Additionally, building this ePortfolio strengthened my technical abilities in areas like **website deployment**, **version control with Git**, and **data visualization** — skills that are highly valuable in today’s digital economy.
 
-## 🚀 What's Next?
+---
 
-I'm excited to explore graduate roles in financial analysis and strategy. This portfolio helped me reflect on how far I’ve come — and where I'm going next.
+## Key Challenges
+
+- **Translating Research into Recommendations**:  
+  Turning academic frameworks into actionable business strategies was more difficult than I initially expected. It required critical thinking and creativity to move beyond simply summarizing theories.
+
+- **Balancing Technical and Academic Demands**:  
+  Managing coding tasks (Python modeling, visualizations) while ensuring the written reports met academic standards was challenging but rewarding.  
+  It taught me the importance of **project planning** and **time management**.
+
+- **Team Collaboration**:  
+  Particularly during the Grant Thornton group project, coordinating research, writing, and analysis with team members was a critical skill development opportunity.
+
+---
+
+## What's Next?
+
+As I move toward graduation, I am excited to pursue graduate opportunities in **financial analysis**, **business strategy**, or **data-driven consulting**.  
+The skills and experiences captured in this portfolio — from technical modeling to strategic thinking — will serve as a strong foundation for my professional career.
+
+Building this portfolio also helped me realize the importance of **lifelong learning**, especially as technology continues to reshape the world of business.
+
+I look forward to applying these skills in real-world settings, continuously improving, and contributing to organizations that value **innovation, analysis, and strategic insight**.
+
+---
 
