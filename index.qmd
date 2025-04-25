@@ -4,7 +4,7 @@ format:
   html:
     page-layout: full
 ---
-![Author](images/profile.jpeg){width=200px style="display: block; margin: auto; border-radius: 100%;"}
+![1](images/profile.jpeg){width=200px style="display: block; margin: auto; border-radius: 100%;"}
 
 # Hi I'm Liam Cummins
 
@@ -20,4 +20,22 @@ I'm a final-year Business Studies student at DCU with a passion for finance, str
 - Downloadable CV
 - Reflection
 
+## Contact Me
 
+**Email:**  
+liam.cummins26@mail.dcu.ie
+
+---
+
+**Phone Number:**  
++353 85 842 8730
+
+---
+
+**LinkedIn:**  
+[Liam Cummins](https://www.linkedin.com/in/liam-cummins-32251b1b9/)
+
+---
+
+**Location:**  
+Dublin, Ireland
