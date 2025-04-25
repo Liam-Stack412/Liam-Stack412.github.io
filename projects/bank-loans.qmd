@@ -1,52 +1,79 @@
 ---
-title: "Bank Loan Prediction – Machine Learning Model"
+title: "Bank Loan Approval – Machine Learning Models"
 page-layout: full
 ---
 
-# 🤖 Bank Loan Approval Prediction
+## Bank Loan Approval Prediction
 
-## 📖 Project Overview
+## Project Overview
 
-In this project, I developed machine learning models to predict **bank loan approvals** based on applicant financial and demographic data.
-
-This included data preprocessing, feature engineering, model training, and performance evaluation.
-
----
-
-## 🛠 Technologies and Methods
-
-- **Python** (pandas, scikit-learn, matplotlib)
-- **Models Built:**
-  - Random Forest Classifier
-  - Decision Tree Classifier
-  - Logistic Regression
-  - Support Vector Machine (SVM)
+I developed and evaluated machine learning models to predict loan approvals using applicant financial and demographic data.  
+The goal was to identify patterns that predict whether an applicant would be approved for a bank loan.
 
 ---
 
-## 📊 Results
+## Models Built
 
-| Model               | Accuracy (%) | F1-Score |
-|---------------------|--------------|----------|
-| Random Forest        | 97.9         | 0.98     |
-| Decision Tree        | 97.3         | 0.97     |
-| Logistic Regression  | 79.9         | 0.79     |
-| SVM                  | 62.8         | 0.48     |
-
-- **Random Forest** achieved the best performance overall.
+- Random Forest Classifier
+- Decision Tree Classifier
+- Logistic Regression
+- Support Vector Machine (SVM)
 
 ---
 
-## 📈 Visualisations
+## Model Performance Comparison
 
-- ROC Curves for model comparison
-- Pie charts showing class distribution
-- Confusion matrices to interpret predictions
+| Model                 | Accuracy (%) | F1-Score |
+|------------------------|--------------|----------|
+| Random Forest          | 97.9         | 0.98     |
+| Decision Tree          | 97.3         | 0.97     |
+| Logistic Regression    | 79.9         | 0.79     |
+| SVM                    | 62.8         | 0.48     |
 
 ---
 
-## 🧠 Reflection
+## ROC Curve Comparison
 
-This project improved my skills in **machine learning model development**, **model evaluation**, and **interpretation of results for real-world applications**.
+![ROC Curves](../images/projects/bank-loan.jpg){width=600px style="display: block; margin: auto;"}
 
-It also highlighted the importance of balancing model complexity with interpretability when making decisions in finance and banking.
+---
+
+# Confusion Matrices
+
+Below are the confusion matrices for each model:
+
+---
+
+## Random Forest Classifier
+
+![Random Forest Confusion Matrix](../images/projects/confusion-forest.png){width=500px style="display: block; margin: auto;"}
+
+---
+
+## Decision Tree Classifier
+
+![Decision Tree Confusion Matrix](../images/projects/confusion-tree.png){width=500px style="display: block; margin: auto;"}
+
+---
+
+## Logistic Regression
+
+![Logistic Regression Confusion Matrix](../images/projects/confusion-LR.png){width=500px style="display: block; margin: auto;"}
+
+---
+
+## Support Vector Machine (SVM)
+
+![SVM Confusion Matrix](../images/projects/confusion-svm.png){width=500px style="display: block; margin: auto;"}
+
+
+---
+
+## Key takeaways
+
+- Random Forest delivered the best overall performance.
+- Logistic Regression served as a simple and interpretable baseline.
+- SVM struggled due to dataset characteristics.
+- Visualizations helped identify misclassifications and improve understanding of model behavior.
+
+---

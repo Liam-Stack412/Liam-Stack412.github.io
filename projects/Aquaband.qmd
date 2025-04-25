@@ -3,15 +3,17 @@ title: "Aquaband Defender"
 page-layout: full
 ---
 
-# 🛟 Aquaband Defender – Water Safety Innovation
+# Aquaband Defender – Water Safety Innovation
 
-## 📖 Project Overview
+![Aquaband Defender Prototype](../images/projects/wristband.png){width=400px style="display: block; margin: auto; border-radius: 12px;"}
 
-Aquaband Defender is a GPS-enabled safety band designed to prevent water accidents among children and hobbyists. This project includes market research, SWOT analysis, competitive benchmarking, and a full launch strategy.
+## Project Overview
+
+Aquaband Defender is a GPS-enabled safety band designed to prevent water accidents among children and  water hobbyists. This project has undertaken a concept paper, feasiblity study, marketing analysis and a presentation for Dragon's Den.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Raise water safety awareness
 - Launch in Irish market targeting parents and water enthusiasts
@@ -19,16 +21,23 @@ Aquaband Defender is a GPS-enabled safety band designed to prevent water acciden
 
 ---
 
-## 🎥 Project Demo Video
+## Project Marketing Video
 
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://youtu.be/2jHIlVDO8p8
+ frameborder="0" allowfullscreen></iframe>
 
 ---
 
-## 📈 Key Outputs
+## Key Outputs
 
 - Market segmentation strategy
 - Financial projections (€395,000 in first-year revenue)
 - Marketing and promotional tactics
 
 ---
+
+## Full Business Plan
+
+<p style="text-align: center;">
+  <a href="../files/business-plan.pdf" target="_blank" class="btn btn-primary"> View Full PDF Report</a>
+</p>

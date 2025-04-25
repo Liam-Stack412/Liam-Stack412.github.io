@@ -25,8 +25,7 @@ website:
         href: https://github.com/Liam-Stack412/Liam-Stack412.github.io
       - icon: linkedin 
         href: https://www.linkedin.com/in/liam-cummins-32251b1b9/
-      - icon: mail
-        href: Liam.cummins26@mail.dcu.ie
+       
 format:
   html:
     theme: cerulean

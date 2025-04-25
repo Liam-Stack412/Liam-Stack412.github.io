@@ -77,55 +77,6 @@
     "text": "Market segmentation strategy\nFinancial projections (€395,000 in first-year revenue)\nMarketing and promotional tactics"
   },
   {
-    "objectID": "Grant Thornton.html",
-    "href": "Grant Thornton.html",
-    "title": "Grant Thornton: Strategic Analysis",
-    "section": "",
-    "text": "Overview\nFor our Business Strategy group project,we all had to work in teams of six and act as business consultants and assess a company based on their strategic advantages, resources/capabilities and possible weaknesses.This project was year-long and followed four key stages of strategy consulting: Orientation, Diagnostics, Intervention, and Evaluation\nMy group chose Grant Thornton as I have previous experience from working for the firm, and felt my experience and knowledge of this firm would be invaluable to the group.\nView Full strategy Here\n\n\nStrategic Highlights\n\nCompetition: Competing for brand recognition against the Big Four.\nTechnology: Investing in AI, automation, and data analytics to stay competitive.\nWorkforce: Emphasizing culture, career development, and talent retention.\nClient Relations: Strengthening trust and insights through client retention.\nSustainability: Expanding ESG services to meet market expectations.\n\n\n\nDiagnostics Summary\n\nOpportunities: Expand advisory services and sustainability consulting.\nThreats: Big Four competition and regulatory changes.\nStrengths: Global presence, tech investments, personalized services.\nWeaknesses: Lagging ESG initiatives and talent development challenges.\n\n\n\nKey Recommendations\n\nDefine KPIs for market expansion.\nIntroduce cross-functional teams and RPA.\nEnhance employee training and stakeholder engagement.\nStrengthen ESG leadership and analytics capabilities.\n\n\n\nConclusion\nGrant Thornton’s focus on mid-market specialization, innovation, and ESG leadership positions it well for sustainable growth and differentiation in the professional services market."
-  },
-  {
-    "objectID": "Aquaband.html",
-    "href": "Aquaband.html",
-    "title": "Aquaband Defender",
-    "section": "",
-    "text": "Aquaband Defender Prototype\n\n\n\n\nAquaband Defender is a GPS-enabled safety band designed to prevent water accidents among children and water hobbyists. This project has undertaken a concept paper, feasiblity study, marketing analysis and a presentation for Dragon’s Den.\n\n\n\n\n\nRaise water safety awareness\nLaunch in Irish market targeting parents and water enthusiasts\nAchieve first-year sales of 2,500+ units\n\n\n\n\n\n&lt;iframe width=“100%” height=“450” src=“https://youtu.be/2jHIlVDO8p8 frameborder=”0” allowfullscreen&gt;\n\n\n\n\n\nMarket segmentation strategy\nFinancial projections (€395,000 in first-year revenue)\nMarketing and promotional tactics\n\n\n\n\n\n\n View Full PDF Report"
-  },
-  {
-    "objectID": "Aquaband.html#project-overview",
-    "href": "Aquaband.html#project-overview",
-    "title": "Aquaband Defender",
-    "section": "",
-    "text": "Aquaband Defender is a GPS-enabled safety band designed to prevent water accidents among children and water hobbyists. This project has undertaken a concept paper, feasiblity study, marketing analysis and a presentation for Dragon’s Den."
-  },
-  {
-    "objectID": "Aquaband.html#objectives",
-    "href": "Aquaband.html#objectives",
-    "title": "Aquaband Defender",
-    "section": "",
-    "text": "Raise water safety awareness\nLaunch in Irish market targeting parents and water enthusiasts\nAchieve first-year sales of 2,500+ units"
-  },
-  {
-    "objectID": "Aquaband.html#project-marketing-video",
-    "href": "Aquaband.html#project-marketing-video",
-    "title": "Aquaband Defender",
-    "section": "",
-    "text": "&lt;iframe width=“100%” height=“450” src=“https://youtu.be/2jHIlVDO8p8 frameborder=”0” allowfullscreen&gt;"
-  },
-  {
-    "objectID": "Aquaband.html#key-outputs",
-    "href": "Aquaband.html#key-outputs",
-    "title": "Aquaband Defender",
-    "section": "",
-    "text": "Market segmentation strategy\nFinancial projections (€395,000 in first-year revenue)\nMarketing and promotional tactics"
-  },
-  {
-    "objectID": "Aquaband.html#full-business-plan",
-    "href": "Aquaband.html#full-business-plan",
-    "title": "Aquaband Defender",
-    "section": "",
-    "text": "View Full PDF Report"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -187,69 +138,6 @@
     "title": "About",
     "section": "Linkedin: Liam Cummins (https://www.linkedin.com/in/liam-cummins-32251b1b9/)",
     "text": "Linkedin: Liam Cummins (https://www.linkedin.com/in/liam-cummins-32251b1b9/)\nLocation: Dublin Ireland"
-  },
-  {
-    "objectID": "bank-loans.html#project-overview",
-    "href": "bank-loans.html#project-overview",
-    "title": "Bank Loan Approval – Machine Learning Models",
-    "section": "Project Overview",
-    "text": "Project Overview\nI developed and evaluated machine learning models to predict loan approvals using applicant financial and demographic data.\nThe goal was to identify patterns that predict whether an applicant would be approved for a bank loan."
-  },
-  {
-    "objectID": "bank-loans.html#models-built",
-    "href": "bank-loans.html#models-built",
-    "title": "Bank Loan Approval – Machine Learning Models",
-    "section": "Models Built",
-    "text": "Models Built\n\nRandom Forest Classifier\nDecision Tree Classifier\nLogistic Regression\nSupport Vector Machine (SVM)"
-  },
-  {
-    "objectID": "bank-loans.html#model-performance-comparison",
-    "href": "bank-loans.html#model-performance-comparison",
-    "title": "Bank Loan Approval – Machine Learning Models",
-    "section": "Model Performance Comparison",
-    "text": "Model Performance Comparison\n\n\n\nModel\nAccuracy (%)\nF1-Score\n\n\n\n\nRandom Forest\n97.9\n0.98\n\n\nDecision Tree\n97.3\n0.97\n\n\nLogistic Regression\n79.9\n0.79\n\n\nSVM\n62.8\n0.48"
-  },
-  {
-    "objectID": "bank-loans.html#roc-curve-comparison",
-    "href": "bank-loans.html#roc-curve-comparison",
-    "title": "Bank Loan Approval – Machine Learning Models",
-    "section": "ROC Curve Comparison",
-    "text": "ROC Curve Comparison\n\n\n\nROC Curves"
-  },
-  {
-    "objectID": "bank-loans.html#random-forest-classifier",
-    "href": "bank-loans.html#random-forest-classifier",
-    "title": "Bank Loan Approval – Machine Learning Models",
-    "section": "Random Forest Classifier",
-    "text": "Random Forest Classifier\n\n\n\nRandom Forest Confusion Matrix"
-  },
-  {
-    "objectID": "bank-loans.html#decision-tree-classifier",
-    "href": "bank-loans.html#decision-tree-classifier",
-    "title": "Bank Loan Approval – Machine Learning Models",
-    "section": "Decision Tree Classifier",
-    "text": "Decision Tree Classifier\n\n\n\nDecision Tree Confusion Matrix"
-  },
-  {
-    "objectID": "bank-loans.html#logistic-regression",
-    "href": "bank-loans.html#logistic-regression",
-    "title": "Bank Loan Approval – Machine Learning Models",
-    "section": "Logistic Regression",
-    "text": "Logistic Regression\n\n\n\nLogistic Regression Confusion Matrix"
-  },
-  {
-    "objectID": "bank-loans.html#support-vector-machine-svm",
-    "href": "bank-loans.html#support-vector-machine-svm",
-    "title": "Bank Loan Approval – Machine Learning Models",
-    "section": "Support Vector Machine (SVM)",
-    "text": "Support Vector Machine (SVM)\n\n\n\nSVM Confusion Matrix"
-  },
-  {
-    "objectID": "bank-loans.html#key-takeaways",
-    "href": "bank-loans.html#key-takeaways",
-    "title": "Bank Loan Approval – Machine Learning Models",
-    "section": "Key takeaways",
-    "text": "Key takeaways\n\nRandom Forest delivered the best overall performance.\nLogistic Regression served as a simple and interpretable baseline.\nSVM struggled due to dataset characteristics.\nVisualizations helped identify misclassifications and improve understanding of model behavior."
   },
   {
     "objectID": "index.html",
