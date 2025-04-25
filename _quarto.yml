@@ -13,10 +13,10 @@ website:
         icon: house-door-fill
       - href: about.qmd
         text: About me
-      - href: Reflection.qmd
-        text: Reflection
       - href: Works.qmd
         text: My Projects
+      - href: Reflection.qmd
+        text: Reflection
       - href: CV.pdf
         text: My CV
      
@@ -27,7 +27,7 @@ website:
         href: https://www.linkedin.com/in/liam-cummins-32251b1b9/
 format:
   html:
-    theme: Lux
+    theme: Cerulean
     css: styles.scss
     toc: true
     fontsize: 1.1em

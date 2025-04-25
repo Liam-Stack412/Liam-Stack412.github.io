@@ -1,18 +1,27 @@
 ---
-title: Projects
+title: "My Projects"
+page-layout: full
 ---
 
-# 📊 Featured Projects
+# 📁 My Projects
+
+Welcome! Below are a few key projects I’ve worked on during my time at DCU and in industry placements. Each one combines strategic thinking, research, and analytics.
+
+---
 
 ## 🛟 Aquaband Defender – Marketing & Strategy
 
 :::{.columns}
-::: {.column width="30%"}
-![Aquaband](images/projects/Aquaband.jpg)
+::: {.column width="35%"}
+![Aquaband Defender](../images/projects/aquaband.jpg){width=100% style="border-radius: 12px;"}
 :::
-::: {.column width="70%"}
-- 2026–2027 business plan for a water safety product  
-- Includes market analysis, trend insights, and a sales strategy  
+::: {.column width="65%"}
+- 📅 **Year:** 2025  
+- 📌 **Focus:** Market analysis & strategic planning  
+- 💡 Created a full go-to-market plan for a child-friendly water safety band.  
+- 📈 Outcome: Revenue projection, customer personas, and competitive analysis.
+
+[🔗 Read More](../projects/aquaband.qmd)
 :::
 :::
 
@@ -21,25 +30,33 @@ title: Projects
 ## 🧭 Grant Thornton Strategy Report
 
 :::{.columns}
-::: {.column width="30%"}
-![Grant Thornton](images/projects/GT.jpg)
+::: {.column width="35%"}
+![Grant Thornton](../images/projects/GT.png){width=100% style="border-radius: 12px;"}
 :::
-::: {.column width="70%"}
-- Focused on ESG integration and VRIO analysis  
-- Applies Uppsala model and Bartlett & Ghoshal frameworks  
+::: {.column width="65%"}
+- 📅 **Year:** 2024  
+- 📌 **Focus:** ESG, global strategy, internal analysis  
+- 🧠 Applied VRIO, Bartlett & Ghoshal, and Uppsala Model frameworks.  
+- ✍️ Delivered strategy recommendations for global expansion and AI integration.
+
+[🔗 Read More](../projects/gt-strategy.qmd)
 :::
 :::
 
 ---
 
-## 🤖 Machine Learning Model – Bank Loan Prediction
+## 🤖 Machine Learning: Bank Loan Prediction
 
 :::{.columns}
-::: {.column width="30%"}
-![ML Model](images/projects/bank-loan.jpg)
+::: {.column width="35%"}
+![ML](../images/projects/bank-loans.jpg){width=100% style="border-radius: 12px;"}
 :::
-::: {.column width="70%"}
-- Python model (Random Forest, SVM, Logistic Regression)  
-- Visualized with ROC curves and pie charts  
+::: {.column width="65%"}
+- 📅 **Year:** 2025  
+- 📌 **Focus:** Predictive modelling with Python  
+- 📊 Trained and evaluated Random Forest, SVM, and Logistic Regression models.  
+- 🔍 Visualised performance using ROC curves and pie charts.
+
+[🔗 Read More](../projects/loan-model.qmd)
 :::
 :::

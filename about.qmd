@@ -1,7 +1,6 @@
 ---
 title: "About"
 ---
-![profile](images/profile.jpeg){width=200px style="display: block; margin: auto; border-radius: 50%;"}
 
 # 👋 About Me
 

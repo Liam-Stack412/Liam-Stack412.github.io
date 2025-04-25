@@ -4,6 +4,7 @@ format:
   html:
     page-layout: full
 ---
+![profile](images/profile.jpeg){width=200px style="display: block; margin: auto; border-radius: 50%;"}
 
 # Hi I'm Liam Cummins
 
@@ -11,7 +12,7 @@ I'm a final-year Business Studies student at DCU with a passion for finance, str
 
 ---
 
-## 🌟 Highlights
+##  Highlights
 
 - 🎓 Final-year Business Student (DCU)
 - 💼 Internship at Grant Thornton
