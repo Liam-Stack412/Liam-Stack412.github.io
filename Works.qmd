@@ -5,58 +5,33 @@ page-layout: full
 
 # 📁 My Projects
 
-Welcome! Below are a few key projects I’ve worked on during my time at DCU and in industry placements. Each one combines strategic thinking, research, and analytics.
+Explore projects I've worked on, grouped by focus area.
 
 ---
 
-## 🛟 Aquaband Defender – Marketing & Strategy
+## 🧭 Business Strategy
 
-:::{.columns}
-::: {.column width="35%"}
-![Aquaband Defender](../images/projects/aquaband.jpg){width=100% style="border-radius: 12px;"}
-:::
-::: {.column width="65%"}
-- 📅 **Year:** 2025  
-- 📌 **Focus:** Market analysis & strategic planning  
-- 💡 Created a full go-to-market plan for a child-friendly water safety band.  
-- 📈 Outcome: Revenue projection, customer personas, and competitive analysis.
-
-[🔗 Read More](../projects/aquaband.qmd)
-:::
-:::
-
----
-
-## 🧭 Grant Thornton Strategy Report
-
-:::{.columns}
-::: {.column width="35%"}
-![Grant Thornton](../images/projects/GT.png){width=100% style="border-radius: 12px;"}
-:::
-::: {.column width="65%"}
+### 📌 Grant Thornton Strategy Report
 - 📅 **Year:** 2024  
-- 📌 **Focus:** ESG, global strategy, internal analysis  
-- 🧠 Applied VRIO, Bartlett & Ghoshal, and Uppsala Model frameworks.  
-- ✍️ Delivered strategy recommendations for global expansion and AI integration.
-
-[🔗 Read More](../projects/gt-strategy.qmd)
-:::
-:::
+- ✍️ Analyzed GT’s global expansion using the Uppsala model  
+- 🧠 Used VRIO, Bartlett & Ghoshal, and Hofstede frameworks  
+- 🔗 [Read More](../projects/grant-thornton.pdf)
 
 ---
 
-## 🤖 Machine Learning: Bank Loan Prediction
+## 📈 Data Analytics
 
-:::{.columns}
-::: {.column width="35%"}
-![ML](../images/projects/bank-loans.jpg){width=100% style="border-radius: 12px;"}
-:::
-::: {.column width="65%"}
-- 📅 **Year:** 2025  
-- 📌 **Focus:** Predictive modelling with Python  
-- 📊 Trained and evaluated Random Forest, SVM, and Logistic Regression models.  
-- 🔍 Visualised performance using ROC curves and pie charts.
+### 🤖 Bank Loan Prediction
+- 🐍 Python, scikit-learn (Random Forest, SVM, Logistic Regression)  
+- 📊 Visuals: ROC curves, F1 scores, pie charts  
+- 🔗 [View Project](../projects/bank-loans.qmd)
 
-[🔗 Read More](../projects/loan-model.qmd)
-:::
-:::
+---
+
+## 🎯 Marketing & Strategy
+
+### 🛟 Aquaband Defender
+- 🛍️ Go-to-market plan for water safety product  
+- 👨‍👩‍👧‍👦 Targeted parents and water hobbyists  
+- 📈 Revenue forecasts, competitor analysis, and positioning  
+- 🔗 [Explore Project](../projects/aquaband.qmd)
