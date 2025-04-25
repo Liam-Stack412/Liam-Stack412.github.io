@@ -15,7 +15,7 @@ Explore projects I've worked on, grouped by focus area.
 - 📅 **Year:** 2024  
 - ✍️ Analyzed GT’s global expansion using the Uppsala model  
 - 🧠 Used VRIO, Bartlett & Ghoshal, and Hofstede frameworks  
-- 🔗 [Read More](../projects/grant-thornton.pdf)
+- 🔗 [Read More](../projects/GT-Presentation.pdf)
 
 ---
 
@@ -24,7 +24,7 @@ Explore projects I've worked on, grouped by focus area.
 ### 🤖 Bank Loan Prediction
 - 🐍 Python, scikit-learn (Random Forest, SVM, Logistic Regression)  
 - 📊 Visuals: ROC curves, F1 scores, pie charts  
-- 🔗 [View Project](../projects/bank-loans.qmd)
+- 🔗 [View Project](../projects/bank-loans.pdf)
 
 ---
 
@@ -35,3 +35,4 @@ Explore projects I've worked on, grouped by focus area.
 - 👨‍👩‍👧‍👦 Targeted parents and water hobbyists  
 - 📈 Revenue forecasts, competitor analysis, and positioning  
 - 🔗 [Explore Project](../projects/aquaband-Plan.pdf)
+[Watch the Aquaband Defender Video on YouTube](https://www.youtube.com/watch?v=2jHIlVDO8p8){target="_blank"}

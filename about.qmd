@@ -2,13 +2,13 @@
 title: "About"
 ---
 
-# 👋 About Me
+# About Me
 
-Hello! I'm **Liam Cummins**, a final-year Business Studies student at **Dublin City University (DCU)**, with a specialisation in **Data Analytics**. My academic and professional journey has been shaped by a deep interest in strategic thinking, practical problem-solving, and making an impact in the business world through data and insights.
+Hello! I'm Liam Cummins, a final-year Business Studies student at Dublin City University (DCU), with a specialisation in Data Analytics. My academic and professional journey has been shaped by a deep interest in strategic thinking, practical problem-solving, and making an impact in the business world through data and insights.
 
 ---
 
-## 🎓 Education Journey
+## Education Journey
 
 After completing secondary school, I pursued a two-year **Post Leaving Certificate** course in **Business Management** at *Coláiste Dhúlaigh*. This programme played a pivotal role in building my confidence and equipping me with foundational business knowledge — from marketing and management principles to practical applications in real-world scenarios.
 
