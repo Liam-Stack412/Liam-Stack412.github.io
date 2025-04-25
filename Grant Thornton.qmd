@@ -13,18 +13,18 @@ For our Business Strategy group project,we all had to work in teams of six and a
 
 # Strategic Highlights
 
-- **Competition**: Competing for brand recognition against the Big Four.
-- **Technology**: Investing in AI, automation, and data analytics to stay competitive.
-- **Workforce**: Emphasizing culture, career development, and talent retention.
-- **Client Relations**: Strengthening trust and insights through client retention.
-- **Sustainability**: Expanding ESG services to meet market expectations.
+- Competition: Competing for brand recognition against the Big Four.
+- Technology: Investing in AI, automation, and data analytics to stay competitive.
+- Workforce: Emphasizing culture, career development, and talent retention.
+- Client Relations: Strengthening trust and insights through client retention.
+- Sustainability: Expanding ESG services to meet market expectations.
 
 # Diagnostics Summary
 
-- **Opportunities**: Expand advisory services and sustainability consulting.
-- **Threats**: Big Four competition and regulatory changes.
-- **Strengths**: Global presence, tech investments, personalized services.
-- **Weaknesses**: Lagging ESG initiatives and talent development challenges.
+- Opportunities: Expand advisory services and sustainability consulting.
+- Threats: Big Four competition and regulatory changes.
+- Strengths: Global presence, tech investments, personalized services.
+- Weaknesses: Lagging ESG initiatives and talent development challenges.
 
 # Key Recommendations
 
@@ -33,5 +33,5 @@ For our Business Strategy group project,we all had to work in teams of six and a
 - Enhance employee training and stakeholder engagement.
 - Strengthen ESG leadership and analytics capabilities.
 
-# Final Note
+# Conclusion
 Grant Thornton's focus on mid-market specialization, innovation, and ESG leadership positions it well for sustainable growth and differentiation in the professional services market.

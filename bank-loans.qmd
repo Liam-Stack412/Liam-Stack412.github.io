@@ -1,0 +1,79 @@
+---
+title: "Bank Loan Approval – Machine Learning Models"
+page-layout: full
+---
+
+# 🤖 Bank Loan Approval Prediction
+
+## 📖 Project Overview
+
+I developed and evaluated machine learning models to predict loan approvals using applicant financial and demographic data.  
+The goal was to identify patterns that predict whether an applicant would be approved for a bank loan.
+
+---
+
+## 🛠 Models Built
+
+- Random Forest Classifier
+- Decision Tree Classifier
+- Logistic Regression
+- Support Vector Machine (SVM)
+
+---
+
+## 📈 Model Performance Comparison
+
+| Model                 | Accuracy (%) | F1-Score |
+|------------------------|--------------|----------|
+| Random Forest          | 97.9         | 0.98     |
+| Decision Tree          | 97.3         | 0.97     |
+| Logistic Regression    | 79.9         | 0.79     |
+| SVM                    | 62.8         | 0.48     |
+
+---
+
+## 📈 ROC Curve Comparison
+
+![ROC Curves](../images/projects/bank-loan.jpg){width=600px style="display: block; margin: auto;"}
+
+---
+
+# 📈 Confusion Matrices
+
+Below are the confusion matrices for each model:
+
+---
+
+## 🌳 Random Forest Classifier
+
+![Random Forest Confusion Matrix](../images/projects/confusion-forest.png){width=500px style="display: block; margin: auto;"}
+
+---
+
+## 🌳 Decision Tree Classifier
+
+![Decision Tree Confusion Matrix](../images/projects/confusion-tree.png){width=500px style="display: block; margin: auto;"}
+
+---
+
+## 📈 Logistic Regression
+
+![Logistic Regression Confusion Matrix](../images/projects/confusion-LR.png){width=500px style="display: block; margin: auto;"}
+
+---
+
+## ✖️ Support Vector Machine (SVM)
+
+![SVM Confusion Matrix](../images/projects/confusion-svm.png){width=500px style="display: block; margin: auto;"}
+
+
+---
+
+## 🧠 Key takeaways
+
+- Random Forest delivered the best overall performance.
+- Logistic Regression served as a simple and interpretable baseline.
+- SVM struggled due to dataset characteristics.
+- Visualizations helped identify misclassifications and improve understanding of model behavior.
+
+---

@@ -3,7 +3,7 @@
 ## Business Strategy
 - [Grant Thornton Strategy Report](projects/GT.qmd)
 
-## Marketing & Innovation
+## New Enterprise Development
 - [Aquaband Defender](projects/Aquaband.qmd)
 
 ## Data Analytics & Machine Learning
