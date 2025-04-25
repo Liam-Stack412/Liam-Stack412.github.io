@@ -9,7 +9,7 @@ page-layout: full
 
 I developed and evaluated machine learning models to predict loan approvals using applicant financial and demographic data.  
 The goal was to identify patterns that predict whether an applicant would be approved for a bank loan.
-[View full assingment Here](./ML.pdf)
+[View full assignment Here](./ML.pdf)
 
 ---
 
