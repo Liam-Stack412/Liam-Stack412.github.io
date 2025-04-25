@@ -1,10 +1,10 @@
-# 🛠️ My Projects
+# My Projects
 
-## 🧭 Business Strategy
-- [📌 Grant Thornton Strategy Report](projects/GT.qmd)
+## Business Strategy
+- [Grant Thornton Strategy Report](projects/GT.qmd)
 
-## 🎯 Marketing & Innovation
-- [🛟 Aquaband Defender](projects/Aquaband.qmd)
+## Marketing & Innovation
+- [Aquaband Defender](projects/Aquaband.qmd)
 
-## 📈 Data Analytics & Machine Learning
-- [🤖 Bank Loan Prediction Model](projects/bank-loans.qmd)
+## Data Analytics & Machine Learning
+- [Bank Loan Prediction Model](projects/bank-loans.qmd)

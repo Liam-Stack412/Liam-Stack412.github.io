@@ -29,7 +29,7 @@ website:
         href: Liam.cummins26@mail.dcu.ie
 format:
   html:
-    theme: Cerulean
+    theme: Lux
     css: styles.scss
     toc: true
     fontsize: 1.1em

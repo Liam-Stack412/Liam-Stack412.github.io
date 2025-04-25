@@ -1,0 +1,37 @@
+---
+title: "Grant Thornton: Strategic Analysis"
+author: "Liam Cummins"
+format: html
+---
+
+# Overview
+For our Business Strategy group project,we all had to work in teams of six and act as business consultants and assess a company based on their strategic advantages, resources/capabilities and possible weaknesses.This project was year-long and followed four  key stages of strategy consulting: Orientation, Diagnostics, Intervention, and Evaluation
+
+ My group chose Grant Thornton as I have previous experience from working for the firm, and felt my experience and knowledge of this firm would be invaluable to the group.
+
+[View Full strategy Here](./Business-strategy.pdf)
+
+# Strategic Highlights
+
+- **Competition**: Competing for brand recognition against the Big Four.
+- **Technology**: Investing in AI, automation, and data analytics to stay competitive.
+- **Workforce**: Emphasizing culture, career development, and talent retention.
+- **Client Relations**: Strengthening trust and insights through client retention.
+- **Sustainability**: Expanding ESG services to meet market expectations.
+
+# Diagnostics Summary
+
+- **Opportunities**: Expand advisory services and sustainability consulting.
+- **Threats**: Big Four competition and regulatory changes.
+- **Strengths**: Global presence, tech investments, personalized services.
+- **Weaknesses**: Lagging ESG initiatives and talent development challenges.
+
+# Key Recommendations
+
+- Define KPIs for market expansion.
+- Introduce cross-functional teams and RPA.
+- Enhance employee training and stakeholder engagement.
+- Strengthen ESG leadership and analytics capabilities.
+
+# Final Note
+Grant Thornton's focus on mid-market specialization, innovation, and ESG leadership positions it well for sustainable growth and differentiation in the professional services market.
